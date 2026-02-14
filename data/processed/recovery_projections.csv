@@ -1,0 +1,15 @@
+disease,n_points,slope,current_oe,projected_recovery_year,method
+Flavivirus infection (unspecified),4,0.209,0.149,2026,projected
+Haemolytic uraemic syndrome (HUS),4,0,0.735,NA,not_recovering
+Haemophilus influenzae type b,4,-0.0811,0.541,NA,not_recovering
+Hepatitis A,4,0.1175,0.53,NA,already_recovered
+Hepatitis B (newly acquired),4,-0.0224,0.383,NA,not_recovering
+Hepatitis B (unspecified),4,0.0336,0.798,2026,projected
+Hepatitis C (unspecified),4,-0.0075,0.6,NA,not_recovering
+Hepatitis E,4,0.0281,0.281,2039,projected
+Meningococcal disease (invasive),4,-0.0135,0.431,NA,not_recovering
+Mumps,4,0.0623,0.071,2035,projected
+Ross River virus infection,4,-0.0234,0.514,NA,not_recovering
+Rubella,4,-0.0167,0.167,NA,not_recovering
+Salmonellosis,4,0.0229,0.612,2034,projected
+Varicella zoster (chickenpox),4,0.0509,0.463,2030,projected

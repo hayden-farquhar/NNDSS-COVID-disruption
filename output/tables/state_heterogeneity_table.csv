@@ -1,0 +1,65 @@
+disease,state,covid_oe,post_oe
+Campylobacteriosis,ACT,1.21,1.09
+Campylobacteriosis,NSW,2.1,2.02
+Campylobacteriosis,NT,0.82,0.69
+Campylobacteriosis,QLD,1.04,1.04
+Campylobacteriosis,SA,0.94,0.98
+Campylobacteriosis,TAS,1.11,1.22
+Campylobacteriosis,VIC,1,1.1
+Campylobacteriosis,WA,0.86,1.25
+Dengue virus infection,ACT,0.03,0.77
+Dengue virus infection,NSW,0.07,1.13
+Dengue virus infection,NT,0.13,0.7
+Dengue virus infection,QLD,0.07,0.92
+Dengue virus infection,SA,0.13,1.08
+Dengue virus infection,TAS,0.05,1.02
+Dengue virus infection,VIC,0.05,1.25
+Dengue virus infection,WA,0.07,0.93
+Gonococcal infection,ACT,1.15,1.66
+Gonococcal infection,NSW,0.97,1.43
+Gonococcal infection,NT,0.86,1.27
+Gonococcal infection,QLD,1.22,1.52
+Gonococcal infection,SA,1.14,1.68
+Gonococcal infection,TAS,1.42,2.39
+Gonococcal infection,VIC,0.92,1.37
+Gonococcal infection,WA,0.94,1.38
+Influenza (laboratory confirmed),ACT,0.05,2.54
+Influenza (laboratory confirmed),NSW,0.06,2.32
+Influenza (laboratory confirmed),NT,0.16,3.2
+Influenza (laboratory confirmed),QLD,0.08,1.97
+Influenza (laboratory confirmed),SA,0.04,1.48
+Influenza (laboratory confirmed),TAS,0.05,2.73
+Influenza (laboratory confirmed),VIC,0.07,2.37
+Influenza (laboratory confirmed),WA,0.06,2.27
+Pertussis,ACT,0.07,0.7
+Pertussis,NSW,0.08,1.35
+Pertussis,NT,0.1,0.81
+Pertussis,QLD,0.15,3.29
+Pertussis,SA,0.13,1.45
+Pertussis,TAS,0.16,2.64
+Pertussis,VIC,0.25,1.83
+Pertussis,WA,0.07,0.79
+Ross River virus infection,ACT,0.32,0.22
+Ross River virus infection,NSW,1.29,0.42
+Ross River virus infection,NT,0.47,0.31
+Ross River virus infection,QLD,0.76,0.43
+Ross River virus infection,SA,0.52,0.42
+Ross River virus infection,TAS,0.74,0.35
+Ross River virus infection,VIC,0.83,0.26
+Ross River virus infection,WA,0.81,0.41
+Salmonellosis,ACT,0.52,0.46
+Salmonellosis,NSW,0.75,0.72
+Salmonellosis,NT,0.8,0.67
+Salmonellosis,QLD,0.88,0.75
+Salmonellosis,SA,0.44,0.48
+Salmonellosis,TAS,0.68,0.89
+Salmonellosis,VIC,0.44,0.58
+Salmonellosis,WA,0.61,0.63
+Tuberculosis,ACT,1.07,1.25
+Tuberculosis,NSW,1.14,0.91
+Tuberculosis,NT,1.13,1.08
+Tuberculosis,QLD,0.88,0.92
+Tuberculosis,SA,0.98,1.16
+Tuberculosis,TAS,1.59,1.21
+Tuberculosis,VIC,1.14,1.01
+Tuberculosis,WA,0.96,1.28

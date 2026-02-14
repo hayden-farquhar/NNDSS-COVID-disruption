@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Disruption and recovery of notifiable infectious diseases after COVID-19 in Australia, 2015–2025"
+type: software
+authors:
+  - family-names: Farquhar
+    given-names: Hayden
+    orcid: "https://orcid.org/0009-0002-6226-440X"
+date-released: "2026-02-14"
+url: "https://github.com/hayden-farquhar/NNDSS-COVID-disruption"
+license: MIT
+keywords:
+  - COVID-19
+  - notifiable diseases
+  - Australia
+  - surveillance
+  - NNDSS
+  - interrupted time series
+  - difference-in-differences
+  - immunity debt
+  - pandemic recovery
+abstract: >-
+  Analysis code and data for a study of how COVID-19 pandemic control
+  measures disrupted notification patterns for 47 nationally notifiable
+  infectious diseases in Australia (2015–2025), and the heterogeneous
+  recovery trajectories observed through 2025.

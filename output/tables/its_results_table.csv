@@ -1,0 +1,10 @@
+disease,transmission_mode,border_sensitive,vaccine_preventable,estimate,conf.low,conf.high,p.value,pct_change,model_type,r_squared
+Influenza (laboratory confirmed),respiratory,FALSE,TRUE,-1401,-1786.428,-1015.572,0,-212.659,ols_neweywest,0.799
+Pertussis,respiratory,FALSE,TRUE,-88.8,-155.335,-22.265,0.016,-136.615,ols_neweywest,0.458
+Salmonellosis,enteric,FALSE,FALSE,-13.133,-18.973,-7.294,0.001,-20.082,ols_neweywest,0.947
+Cryptosporidiosis,enteric,FALSE,FALSE,-11.867,-26.468,2.735,0.096,-73.251,ols_neweywest,0.335
+Dengue virus infection,vector_borne,TRUE,FALSE,-6.915,-9.279,-4.55,0,-111.527,ols_neweywest,0.757
+Meningococcal disease (invasive),respiratory,FALSE,TRUE,-0.816,-1.481,-0.151,0.023,-73.25,ols_neweywest,0.548
+Hepatitis C (newly acquired),blood_borne,FALSE,FALSE,0.2,-0.543,0.943,0.545,7.143,ols_neweywest,0.092
+Campylobacteriosis,enteric,FALSE,FALSE,6.467,-26.697,39.631,0.659,4.741,ols_neweywest,0.352
+Ross River virus infection,vector_borne,FALSE,FALSE,11.933,3.226,20.64,0.014,55.763,ols_neweywest,0.652

@@ -1,0 +1,70 @@
+disease,transmission_mode,subcategory,year_data_from,year_data_to,baseline_years_available,has_full_baseline,has_covid_data,has_post_data,analysis_suitable,rate_2019,rate_2020,national_caveats,border_sensitive,vaccine_preventable,exclusion_reason
+Influenza (laboratory confirmed),respiratory,viral_respiratory,2001,2025,5,TRUE,TRUE,TRUE,TRUE,1238,83,"Data not available between 1991 - 2000;
+A revised national surveillance case defnition for Influenza was implemented on 29 October 2008",FALSE,TRUE,NA
+Pertussis,respiratory,vaccine_preventable,1991,2025,5,TRUE,TRUE,TRUE,TRUE,47,13,NA,FALSE,TRUE,NA
+Pneumococcal disease (invasive),respiratory,vaccine_preventable,2001,2025,5,TRUE,TRUE,TRUE,TRUE,8,4,NA,FALSE,TRUE,NA
+Meningococcal disease (invasive),respiratory,vaccine_preventable,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.81,0.35,A revised national surveillance case definition for Meningococcal invasive was implemented on 1 July 2010,FALSE,TRUE,NA
+Measles,respiratory,vaccine_preventable,1991,2025,5,TRUE,FALSE,TRUE,FALSE,1,0.1,NA,TRUE,TRUE,Missing COVID-period data
+Mumps,respiratory,vaccine_preventable,1992,2025,5,TRUE,TRUE,TRUE,TRUE,0.69,0.6,NA,FALSE,TRUE,NA
+Rubella,respiratory,vaccine_preventable,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.08,0.01,NA,FALSE,TRUE,NA
+Rubella congenital,respiratory,vaccine_preventable,2003,2015,1,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,TRUE,Insufficient pre-COVID baseline data
+Tuberculosis,respiratory,mycobacterial,1991,2025,5,TRUE,TRUE,TRUE,TRUE,6,6,NA,FALSE,FALSE,NA
+Legionellosis,respiratory,environmental_respiratory,1991,2025,5,TRUE,TRUE,TRUE,TRUE,2,2,NA,FALSE,FALSE,NA
+Diphtheria,respiratory,vaccine_preventable,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.03,0.04,NA,FALSE,TRUE,NA
+Haemophilus influenzae type b,respiratory,vaccine_preventable,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.09,0.07,NA,FALSE,TRUE,NA
+Varicella zoster (chickenpox),respiratory,vaccine_preventable,2006,2025,5,TRUE,TRUE,TRUE,TRUE,26,17,NA,FALSE,TRUE,NA
+Varicella zoster (shingles),respiratory,viral_respiratory,2006,2025,5,TRUE,TRUE,TRUE,TRUE,88,93,NA,FALSE,FALSE,NA
+Varicella zoster (unspecified),respiratory,viral_respiratory,2006,2025,5,TRUE,TRUE,TRUE,TRUE,76,70,NA,FALSE,FALSE,NA
+Respiratory syncytial virus (RSV),respiratory,viral_respiratory,2020,2025,0,FALSE,TRUE,TRUE,FALSE,NA,0.04,Data not available before 2020,FALSE,FALSE,Notifiable from 2020 only
+Invasive Group A Streptococcal disease (iGAS),respiratory,bacterial_respiratory,2021,2025,0,FALSE,FALSE,TRUE,FALSE,NA,NA,NA,FALSE,FALSE,Notifiable from 2021 only
+Ornithosis,respiratory,zoonotic_respiratory,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.09,0.25,NA,FALSE,FALSE,NA
+Salmonellosis,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,58,47,NA,FALSE,FALSE,NA
+Campylobacteriosis,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,146,131,NA,FALSE,FALSE,NA
+Cryptosporidiosis,enteric,parasitic_enteric,2001,2025,5,TRUE,TRUE,TRUE,TRUE,11,10,NA,FALSE,FALSE,NA
+Shigellosis,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,12,6,NA,TRUE,FALSE,NA
+Listeriosis,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.2,0.17,NA,FALSE,FALSE,NA
+Hepatitis A,enteric,viral_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.96,0.34,NA,TRUE,TRUE,NA
+Hepatitis E,enteric,viral_enteric,1999,2025,5,TRUE,TRUE,TRUE,TRUE,0.21,0.12,NA,TRUE,FALSE,NA
+Typhoid Fever,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.8,0.34,NA,TRUE,FALSE,NA
+Paratyphoid,enteric,bacterial_enteric,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.46,0.15,NA,TRUE,FALSE,NA
+STEC,enteric,bacterial_enteric,1999,2025,5,TRUE,TRUE,TRUE,TRUE,3,2,NA,FALSE,FALSE,NA
+Rotavirus,enteric,viral_enteric,2010,2025,5,TRUE,TRUE,TRUE,TRUE,24,7,NA,FALSE,TRUE,NA
+Cholera,enteric,bacterial_enteric,1991,2025,4,FALSE,FALSE,TRUE,FALSE,0.01,NA,NA,TRUE,FALSE,Insufficient pre-COVID baseline data
+Botulism,enteric,bacterial_enteric,1998,2025,3,FALSE,TRUE,TRUE,FALSE,0.01,0,NA,FALSE,FALSE,Insufficient pre-COVID baseline data
+Haemolytic uraemic syndrome (HUS),enteric,bacterial_enteric,1999,2025,5,TRUE,TRUE,TRUE,TRUE,0.08,0.05,NA,FALSE,FALSE,NA
+Vibrio parahaemolyticus infection,enteric,bacterial_enteric,2025,2025,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,FALSE,Notifiable from 2025 only
+Chlamydial infection,STI,bacterial_STI,1991,2025,5,TRUE,TRUE,TRUE,TRUE,424,357,NA,FALSE,FALSE,NA
+Gonococcal infection,STI,bacterial_STI,1991,2025,5,TRUE,TRUE,TRUE,TRUE,137,116,NA,FALSE,FALSE,NA
+Syphilis < 2 years,STI,bacterial_STI,2004,2025,5,TRUE,TRUE,TRUE,TRUE,23,21,NA,FALSE,FALSE,NA
+Syphilis > 2 years or unspecified duration,STI,bacterial_STI,2004,2025,5,TRUE,TRUE,TRUE,TRUE,10,9,NA,FALSE,FALSE,NA
+Syphilis congenital,STI,bacterial_STI,2003,2025,5,TRUE,TRUE,TRUE,TRUE,0.02,0.07,NA,FALSE,FALSE,NA
+Donovanosis,STI,bacterial_STI,1991,2014,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,FALSE,Insufficient pre-COVID baseline data
+Hepatitis B (newly acquired),blood_borne,viral_bloodborne,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.66,0.5,NA,FALSE,TRUE,NA
+Hepatitis B (unspecified),blood_borne,viral_bloodborne,1991,2025,5,TRUE,TRUE,TRUE,TRUE,22,19,NA,FALSE,FALSE,NA
+Hepatitis C (newly acquired),blood_borne,viral_bloodborne,1993,2025,5,TRUE,TRUE,TRUE,TRUE,3,3,NA,FALSE,FALSE,NA
+Hepatitis C (unspecified),blood_borne,viral_bloodborne,1995,2025,5,TRUE,TRUE,TRUE,TRUE,33,29,Hepatitis C unspecified included incident hepatitis C from all jurisdictions between 1991 - 2008 and from NT and Qld between 1993 to present,FALSE,FALSE,NA
+Hepatitis D,blood_borne,viral_bloodborne,1999,2025,5,TRUE,TRUE,TRUE,TRUE,0.28,0.29,NA,FALSE,FALSE,NA
+Hepatitis (NEC),blood_borne,viral_bloodborne,1991,2023,0,FALSE,FALSE,FALSE,FALSE,NA,NA,Hepatitis (NEC) included reports of Hepatitis D and Hepatitis E between 1991 - 1998,FALSE,FALSE,Insufficient pre-COVID baseline data
+Ross River virus infection,vector_borne,mosquito_borne,1993,2025,5,TRUE,TRUE,TRUE,TRUE,12,25,NA,FALSE,FALSE,NA
+Barmah Forest virus infection,vector_borne,mosquito_borne,1995,2025,5,TRUE,TRUE,TRUE,TRUE,0.95,3,NA,FALSE,FALSE,NA
+Dengue virus infection,vector_borne,mosquito_borne,1993,2025,5,TRUE,TRUE,TRUE,TRUE,6,0.9,NA,TRUE,FALSE,NA
+Malaria,vector_borne,mosquito_borne,1991,2025,5,TRUE,TRUE,TRUE,TRUE,2,0.61,NA,TRUE,FALSE,NA
+Murray Valley encephalitis virus infection,vector_borne,mosquito_borne,2001,2025,2,FALSE,FALSE,TRUE,FALSE,NA,NA,A revised national surveillance case definition for Murray Valley encephalitis virus infecticn was implemented on 1 July 2010,FALSE,FALSE,Insufficient pre-COVID baseline data
+Japanese encephalitis virus infection,vector_borne,mosquito_borne,2003,2025,3,FALSE,TRUE,TRUE,FALSE,0.01,0,A revised national surveiliance case definition for Japanese encephalitis was implemented on 1 July 2010,FALSE,FALSE,Insufficient pre-COVID baseline data
+West Nile/Kunjin virus infection,vector_borne,mosquito_borne,2001,2025,3,FALSE,FALSE,TRUE,FALSE,0,0,"A revised national surveillance case definition for Kunjin virus infection was implemented on 1 July 2010;
+Disease reported as Murray Valley Encephalitis between 2001 - 2008",FALSE,FALSE,Insufficient pre-COVID baseline data
+Chikungunya virus infection,vector_borne,mosquito_borne,2008,2025,5,TRUE,TRUE,TRUE,TRUE,0.34,0.13,NA,TRUE,FALSE,NA
+Flavivirus infection (unspecified),vector_borne,mosquito_borne,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.04,0.05,"Data not available between 1991 - 2008;
+Data from Jan 1991 to Dec 2000 included notifications of Japanese encephalitis, Kunjin and Murray Valley Encephalitis from 2001, these diseases were notified separately from most jurisdictions",FALSE,FALSE,NA
+Q fever,zoonotic,zoonotic_bacterial,1991,2025,5,TRUE,TRUE,TRUE,TRUE,2,2,NA,FALSE,FALSE,NA
+Leptospirosis,zoonotic,zoonotic_bacterial,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.32,0.34,NA,FALSE,FALSE,NA
+Brucellosis,zoonotic,zoonotic_bacterial,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.04,0.07,A revised national surveiliance case definition for Brucellosis was in effect on 1 July 2010,FALSE,FALSE,NA
+Anthrax,zoonotic,zoonotic_bacterial,1998,2010,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,FALSE,Insufficient pre-COVID baseline data
+Australian bat lyssavirus infection,zoonotic,zoonotic_viral,2013,2025,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,FALSE,Insufficient pre-COVID baseline data
+Tularaemia,zoonotic,zoonotic_bacterial,2011,2020,0,FALSE,FALSE,FALSE,FALSE,NA,0.01,A revised national surveillance case definition for Tularaemia was implemented on 29 October 2008,FALSE,FALSE,Insufficient pre-COVID baseline data
+Avian influenza in humans (AIH),zoonotic,zoonotic_viral,NA,NA,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,FALSE,Insufficient pre-COVID baseline data
+Leprosy,zoonotic,mycobacterial,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.04,0.02,NA,TRUE,FALSE,NA
+Tetanus,zoonotic,environmental,1991,2025,5,TRUE,TRUE,TRUE,TRUE,0.01,0.03,NA,FALSE,FALSE,NA
+Poliovirus infection,other,vaccine_preventable,2007,2007,0,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,TRUE,Insufficient pre-COVID baseline data
+COVID-19,other,pandemic,2020,2025,0,FALSE,TRUE,TRUE,FALSE,NA,110,NA,FALSE,FALSE,Pandemic pathogen (not a disrupted disease)
+Mpox,other,emerging,2022,2025,0,FALSE,FALSE,TRUE,FALSE,NA,NA,NA,FALSE,FALSE,Emerged 2022 (no pre-COVID baseline)

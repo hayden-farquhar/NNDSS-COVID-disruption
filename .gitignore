@@ -1,0 +1,21 @@
+# Raw data (not redistributable)
+data/raw/powerbi/
+data/raw/record_level/
+data/raw/fortnightly/
+
+# R artifacts
+.Rhistory
+.Rdata
+.RData
+.Rproj.user
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/

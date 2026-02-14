@@ -1,0 +1,26 @@
+disease,age_broad,covid_acute,post_covid,transition
+Influenza (laboratory confirmed),0-4,0.053,1.606,1.688
+Influenza (laboratory confirmed),15-24,0.06,1.437,2.172
+Influenza (laboratory confirmed),25-49,0.092,1.396,1.539
+Influenza (laboratory confirmed),5-14,0.048,1.836,1.947
+Influenza (laboratory confirmed),50-64,0.092,1.032,0.911
+Influenza (laboratory confirmed),65+,0.056,0.762,0.561
+Influenza (laboratory confirmed),Other,0.667,2.208,1
+Meningococcal disease (invasive),0-4,0.349,0.463,0.422
+Meningococcal disease (invasive),15-24,0.31,0.613,0.67
+Meningococcal disease (invasive),25-49,0.321,0.487,0.59
+Meningococcal disease (invasive),5-14,0.563,0.986,1.197
+Meningococcal disease (invasive),50-64,0.249,0.58,0.221
+Meningococcal disease (invasive),65+,0.25,0.402,0.174
+Pneumococcal disease (invasive),0-4,0.829,1.386,1.242
+Pneumococcal disease (invasive),15-24,0.7,1.24,1.24
+Pneumococcal disease (invasive),25-49,0.766,1.282,1.056
+Pneumococcal disease (invasive),5-14,0.687,1.825,1.528
+Pneumococcal disease (invasive),50-64,0.562,1.175,0.891
+Pneumococcal disease (invasive),65+,0.57,1.14,0.857
+Salmonellosis,0-4,0.812,0.535,0.774
+Salmonellosis,15-24,0.636,0.427,0.514
+Salmonellosis,25-49,0.624,0.444,0.541
+Salmonellosis,5-14,0.79,0.473,0.665
+Salmonellosis,50-64,0.659,0.508,0.61
+Salmonellosis,65+,0.794,0.571,0.735

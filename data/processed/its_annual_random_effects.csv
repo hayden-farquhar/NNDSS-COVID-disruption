@@ -1,0 +1,46 @@
+disease,re_intercept,re_covid
+Barmah Forest virus infection,0,0.5364737789530769
+Brucellosis,0,-0.19928472852874882
+Campylobacteriosis,0,1.636950441690831
+Chikungunya virus infection,0,-0.4014204736755303
+Chlamydial infection,0,-2.541183702773082
+Cryptosporidiosis,0,1.0250279755679816
+Dengue virus infection,0,-0.5008176734422954
+Flavivirus infection (unspecified),0,0.25929593903786846
+Gonococcal infection,0,-0.23155758742570537
+Haemolytic uraemic syndrome (HUS),0,-0.6620803774758754
+Haemophilus influenzae type b,0,-2.5261243341601225
+Hepatitis A,0,-0.1113979428043378
+Hepatitis B (newly acquired),0,-3.3718655807383024
+Hepatitis B (unspecified),0,-1.3385354309156163
+Hepatitis C (newly acquired),0,2.09823449489995
+Hepatitis C (unspecified),0,-1.284738157136584
+Hepatitis D,0,3.896904673890511
+Hepatitis E,0,-3.990962906919985
+Influenza (laboratory confirmed),0,0.75485852917715
+Legionellosis,0,0.8899645597641432
+Leprosy,0,-0.5497329718837144
+Leptospirosis,0,0.699083898914475
+Listeriosis,0,-0.06203986991296367
+Malaria,0,0.14875002039380153
+Meningococcal disease (invasive),0,-0.9504635583053849
+Mumps,0,-1.5765467433018365
+Ornithosis,0,3.3659154164297855
+Paratyphoid,0,-0.3421912122108416
+Pertussis,0,-0.09133993126656863
+Pneumococcal disease (invasive),0,0.20979613342033965
+Q fever,0,0.04993380149799098
+Ross River virus infection,0,-0.04228159126690399
+Rotavirus,0,1.262537034746314
+Rubella,0,-2.0108411458911353
+Salmonellosis,0,-2.00721456072813
+Shigellosis,0,0.5664665940834465
+STEC,0,1.8445255426645089
+Syphilis < 2 years,0,-0.19682664660811214
+Syphilis > 2 years or unspecified duration,0,0.11902741061666847
+Syphilis congenital,0,2.850540526190224
+Tuberculosis,0,0.004602098351805991
+Typhoid Fever,0,0.8403792812989983
+Varicella zoster (chickenpox),0,-1.2958333596036107
+Varicella zoster (shingles),0,0.4789088039783714
+Varicella zoster (unspecified),0,2.7471035314074927

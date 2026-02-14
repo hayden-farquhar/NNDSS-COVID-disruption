@@ -1,0 +1,1243 @@
+disease,year,age_group,count
+Influenza (laboratory confirmed),2008,00-04,1378
+Influenza (laboratory confirmed),2008,05-09,737
+Influenza (laboratory confirmed),2008,10-14,700
+Influenza (laboratory confirmed),2008,15-19,731
+Influenza (laboratory confirmed),2008,20-24,642
+Influenza (laboratory confirmed),2008,25-29,556
+Influenza (laboratory confirmed),2008,30-34,493
+Influenza (laboratory confirmed),2008,35-39,597
+Influenza (laboratory confirmed),2008,40-44,442
+Influenza (laboratory confirmed),2008,45-49,521
+Influenza (laboratory confirmed),2008,50-54,437
+Influenza (laboratory confirmed),2008,55-59,461
+Influenza (laboratory confirmed),2008,60-64,355
+Influenza (laboratory confirmed),2008,65-69,256
+Influenza (laboratory confirmed),2008,70-74,248
+Influenza (laboratory confirmed),2008,75-79,208
+Influenza (laboratory confirmed),2008,80-84,192
+Influenza (laboratory confirmed),2008,85+,193
+Influenza (laboratory confirmed),2008,NA,5
+Influenza (laboratory confirmed),2009,00-04,5774
+Influenza (laboratory confirmed),2009,05-09,6755
+Influenza (laboratory confirmed),2009,10-14,7338
+Influenza (laboratory confirmed),2009,15-19,7278
+Influenza (laboratory confirmed),2009,20-24,5970
+Influenza (laboratory confirmed),2009,25-29,5281
+Influenza (laboratory confirmed),2009,30-34,3667
+Influenza (laboratory confirmed),2009,35-39,3527
+Influenza (laboratory confirmed),2009,40-44,2962
+Influenza (laboratory confirmed),2009,45-49,2873
+Influenza (laboratory confirmed),2009,50-54,2700
+Influenza (laboratory confirmed),2009,55-59,1766
+Influenza (laboratory confirmed),2009,60-64,1084
+Influenza (laboratory confirmed),2009,65-69,637
+Influenza (laboratory confirmed),2009,70-74,485
+Influenza (laboratory confirmed),2009,75-79,376
+Influenza (laboratory confirmed),2009,80-84,257
+Influenza (laboratory confirmed),2009,85+,236
+Influenza (laboratory confirmed),2009,NA,65
+Influenza (laboratory confirmed),2010,00-04,1608
+Influenza (laboratory confirmed),2010,05-09,1316
+Influenza (laboratory confirmed),2010,10-14,1048
+Influenza (laboratory confirmed),2010,15-19,1022
+Influenza (laboratory confirmed),2010,20-24,1031
+Influenza (laboratory confirmed),2010,25-29,1165
+Influenza (laboratory confirmed),2010,30-34,963
+Influenza (laboratory confirmed),2010,35-39,907
+Influenza (laboratory confirmed),2010,40-44,849
+Influenza (laboratory confirmed),2010,45-49,775
+Influenza (laboratory confirmed),2010,50-54,749
+Influenza (laboratory confirmed),2010,55-59,594
+Influenza (laboratory confirmed),2010,60-64,432
+Influenza (laboratory confirmed),2010,65-69,296
+Influenza (laboratory confirmed),2010,70-74,238
+Influenza (laboratory confirmed),2010,75-79,177
+Influenza (laboratory confirmed),2010,80-84,155
+Influenza (laboratory confirmed),2010,85+,100
+Influenza (laboratory confirmed),2010,NA,22
+Influenza (laboratory confirmed),2011,00-04,3756
+Influenza (laboratory confirmed),2011,05-09,3147
+Influenza (laboratory confirmed),2011,10-14,2044
+Influenza (laboratory confirmed),2011,15-19,1725
+Influenza (laboratory confirmed),2011,20-24,1759
+Influenza (laboratory confirmed),2011,25-29,2089
+Influenza (laboratory confirmed),2011,30-34,1957
+Influenza (laboratory confirmed),2011,35-39,1872
+Influenza (laboratory confirmed),2011,40-44,1604
+Influenza (laboratory confirmed),2011,45-49,1332
+Influenza (laboratory confirmed),2011,50-54,1259
+Influenza (laboratory confirmed),2011,55-59,1052
+Influenza (laboratory confirmed),2011,60-64,991
+Influenza (laboratory confirmed),2011,65-69,696
+Influenza (laboratory confirmed),2011,70-74,625
+Influenza (laboratory confirmed),2011,75-79,479
+Influenza (laboratory confirmed),2011,80-84,431
+Influenza (laboratory confirmed),2011,85+,395
+Influenza (laboratory confirmed),2011,NA,2
+Influenza (laboratory confirmed),2012,00-04,6697
+Influenza (laboratory confirmed),2012,05-09,5112
+Influenza (laboratory confirmed),2012,10-14,2627
+Influenza (laboratory confirmed),2012,15-19,2301
+Influenza (laboratory confirmed),2012,20-24,2139
+Influenza (laboratory confirmed),2012,25-29,2559
+Influenza (laboratory confirmed),2012,30-34,2850
+Influenza (laboratory confirmed),2012,35-39,2994
+Influenza (laboratory confirmed),2012,40-44,2638
+Influenza (laboratory confirmed),2012,45-49,2061
+Influenza (laboratory confirmed),2012,50-54,1864
+Influenza (laboratory confirmed),2012,55-59,1776
+Influenza (laboratory confirmed),2012,60-64,1790
+Influenza (laboratory confirmed),2012,65-69,1545
+Influenza (laboratory confirmed),2012,70-74,1346
+Influenza (laboratory confirmed),2012,75-79,1385
+Influenza (laboratory confirmed),2012,80-84,1201
+Influenza (laboratory confirmed),2012,85+,1615
+Influenza (laboratory confirmed),2012,NA,8
+Influenza (laboratory confirmed),2013,00-04,3236
+Influenza (laboratory confirmed),2013,05-09,3086
+Influenza (laboratory confirmed),2013,10-14,1670
+Influenza (laboratory confirmed),2013,15-19,1170
+Influenza (laboratory confirmed),2013,20-24,1069
+Influenza (laboratory confirmed),2013,25-29,1384
+Influenza (laboratory confirmed),2013,30-34,1980
+Influenza (laboratory confirmed),2013,35-39,2151
+Influenza (laboratory confirmed),2013,40-44,2159
+Influenza (laboratory confirmed),2013,45-49,1724
+Influenza (laboratory confirmed),2013,50-54,1685
+Influenza (laboratory confirmed),2013,55-59,1685
+Influenza (laboratory confirmed),2013,60-64,1373
+Influenza (laboratory confirmed),2013,65-69,1108
+Influenza (laboratory confirmed),2013,70-74,809
+Influenza (laboratory confirmed),2013,75-79,693
+Influenza (laboratory confirmed),2013,80-84,587
+Influenza (laboratory confirmed),2013,85+,626
+Influenza (laboratory confirmed),2013,NA,1
+Influenza (laboratory confirmed),2014,00-04,8403
+Influenza (laboratory confirmed),2014,05-09,5519
+Influenza (laboratory confirmed),2014,10-14,3219
+Influenza (laboratory confirmed),2014,15-19,3322
+Influenza (laboratory confirmed),2014,20-24,2962
+Influenza (laboratory confirmed),2014,25-29,3682
+Influenza (laboratory confirmed),2014,30-34,4742
+Influenza (laboratory confirmed),2014,35-39,4875
+Influenza (laboratory confirmed),2014,40-44,4836
+Influenza (laboratory confirmed),2014,45-49,4037
+Influenza (laboratory confirmed),2014,50-54,3752
+Influenza (laboratory confirmed),2014,55-59,3724
+Influenza (laboratory confirmed),2014,60-64,3313
+Influenza (laboratory confirmed),2014,65-69,2758
+Influenza (laboratory confirmed),2014,70-74,2065
+Influenza (laboratory confirmed),2014,75-79,2061
+Influenza (laboratory confirmed),2014,80-84,1892
+Influenza (laboratory confirmed),2014,85+,2493
+Influenza (laboratory confirmed),2014,NA,9
+Influenza (laboratory confirmed),2015,00-04,10975
+Influenza (laboratory confirmed),2015,05-09,13762
+Influenza (laboratory confirmed),2015,10-14,7989
+Influenza (laboratory confirmed),2015,15-19,6563
+Influenza (laboratory confirmed),2015,20-24,4756
+Influenza (laboratory confirmed),2015,25-29,5302
+Influenza (laboratory confirmed),2015,30-34,6127
+Influenza (laboratory confirmed),2015,35-39,5855
+Influenza (laboratory confirmed),2015,40-44,5764
+Influenza (laboratory confirmed),2015,45-49,4889
+Influenza (laboratory confirmed),2015,50-54,4534
+Influenza (laboratory confirmed),2015,55-59,4317
+Influenza (laboratory confirmed),2015,60-64,4050
+Influenza (laboratory confirmed),2015,65-69,3701
+Influenza (laboratory confirmed),2015,70-74,3051
+Influenza (laboratory confirmed),2015,75-79,2894
+Influenza (laboratory confirmed),2015,80-84,2518
+Influenza (laboratory confirmed),2015,85+,3571
+Influenza (laboratory confirmed),2015,NA,4
+Influenza (laboratory confirmed),2016,00-04,8646
+Influenza (laboratory confirmed),2016,05-09,7301
+Influenza (laboratory confirmed),2016,10-14,4986
+Influenza (laboratory confirmed),2016,15-19,5221
+Influenza (laboratory confirmed),2016,20-24,4264
+Influenza (laboratory confirmed),2016,25-29,4496
+Influenza (laboratory confirmed),2016,30-34,5417
+Influenza (laboratory confirmed),2016,35-39,5278
+Influenza (laboratory confirmed),2016,40-44,4963
+Influenza (laboratory confirmed),2016,45-49,4934
+Influenza (laboratory confirmed),2016,50-54,4857
+Influenza (laboratory confirmed),2016,55-59,4880
+Influenza (laboratory confirmed),2016,60-64,4562
+Influenza (laboratory confirmed),2016,65-69,4214
+Influenza (laboratory confirmed),2016,70-74,3714
+Influenza (laboratory confirmed),2016,75-79,3693
+Influenza (laboratory confirmed),2016,80-84,3454
+Influenza (laboratory confirmed),2016,85+,6049
+Influenza (laboratory confirmed),2016,NA,5
+Influenza (laboratory confirmed),2017,00-04,24508
+Influenza (laboratory confirmed),2017,05-09,27371
+Influenza (laboratory confirmed),2017,10-14,16745
+Influenza (laboratory confirmed),2017,15-19,13474
+Influenza (laboratory confirmed),2017,20-24,10859
+Influenza (laboratory confirmed),2017,25-29,9460
+Influenza (laboratory confirmed),2017,30-34,12706
+Influenza (laboratory confirmed),2017,35-39,14374
+Influenza (laboratory confirmed),2017,40-44,14017
+Influenza (laboratory confirmed),2017,45-49,13834
+Influenza (laboratory confirmed),2017,50-54,13024
+Influenza (laboratory confirmed),2017,55-59,13562
+Influenza (laboratory confirmed),2017,60-64,12471
+Influenza (laboratory confirmed),2017,65-69,11148
+Influenza (laboratory confirmed),2017,70-74,10079
+Influenza (laboratory confirmed),2017,75-79,9295
+Influenza (laboratory confirmed),2017,80-84,8898
+Influenza (laboratory confirmed),2017,85+,15368
+Influenza (laboratory confirmed),2017,NA,11
+Influenza (laboratory confirmed),2018,00-04,6589
+Influenza (laboratory confirmed),2018,05-09,6951
+Influenza (laboratory confirmed),2018,10-14,2810
+Influenza (laboratory confirmed),2018,15-19,2251
+Influenza (laboratory confirmed),2018,20-24,2435
+Influenza (laboratory confirmed),2018,25-29,2938
+Influenza (laboratory confirmed),2018,30-34,3483
+Influenza (laboratory confirmed),2018,35-39,4050
+Influenza (laboratory confirmed),2018,40-44,3720
+Influenza (laboratory confirmed),2018,45-49,3602
+Influenza (laboratory confirmed),2018,50-54,3252
+Influenza (laboratory confirmed),2018,55-59,3452
+Influenza (laboratory confirmed),2018,60-64,3154
+Influenza (laboratory confirmed),2018,65-69,2578
+Influenza (laboratory confirmed),2018,70-74,2164
+Influenza (laboratory confirmed),2018,75-79,1746
+Influenza (laboratory confirmed),2018,80-84,1466
+Influenza (laboratory confirmed),2018,85+,1827
+Influenza (laboratory confirmed),2019,00-04,35844
+Influenza (laboratory confirmed),2019,05-09,42955
+Influenza (laboratory confirmed),2019,10-14,25263
+Influenza (laboratory confirmed),2019,15-19,18235
+Influenza (laboratory confirmed),2019,20-24,17697
+Influenza (laboratory confirmed),2019,25-29,19766
+Influenza (laboratory confirmed),2019,30-34,21756
+Influenza (laboratory confirmed),2019,35-39,19714
+Influenza (laboratory confirmed),2019,40-44,13914
+Influenza (laboratory confirmed),2019,45-49,12606
+Influenza (laboratory confirmed),2019,50-54,11674
+Influenza (laboratory confirmed),2019,55-59,12839
+Influenza (laboratory confirmed),2019,60-64,12544
+Influenza (laboratory confirmed),2019,65-69,10311
+Influenza (laboratory confirmed),2019,70-74,9657
+Influenza (laboratory confirmed),2019,75-79,8318
+Influenza (laboratory confirmed),2019,80-84,7865
+Influenza (laboratory confirmed),2019,85+,12428
+Influenza (laboratory confirmed),2019,NA,28
+Influenza (laboratory confirmed),2020,00-04,1769
+Influenza (laboratory confirmed),2020,05-09,1889
+Influenza (laboratory confirmed),2020,10-14,1087
+Influenza (laboratory confirmed),2020,15-19,881
+Influenza (laboratory confirmed),2020,20-24,1090
+Influenza (laboratory confirmed),2020,25-29,1477
+Influenza (laboratory confirmed),2020,30-34,1780
+Influenza (laboratory confirmed),2020,35-39,1704
+Influenza (laboratory confirmed),2020,40-44,1490
+Influenza (laboratory confirmed),2020,45-49,1520
+Influenza (laboratory confirmed),2020,50-54,1468
+Influenza (laboratory confirmed),2020,55-59,1341
+Influenza (laboratory confirmed),2020,60-64,1206
+Influenza (laboratory confirmed),2020,65-69,939
+Influenza (laboratory confirmed),2020,70-74,817
+Influenza (laboratory confirmed),2020,75-79,626
+Influenza (laboratory confirmed),2020,80-84,400
+Influenza (laboratory confirmed),2020,85+,389
+Influenza (laboratory confirmed),2020,NA,8
+Influenza (laboratory confirmed),2021,00-04,77
+Influenza (laboratory confirmed),2021,05-09,21
+Influenza (laboratory confirmed),2021,10-14,20
+Influenza (laboratory confirmed),2021,15-19,34
+Influenza (laboratory confirmed),2021,20-24,42
+Influenza (laboratory confirmed),2021,25-29,53
+Influenza (laboratory confirmed),2021,30-34,35
+Influenza (laboratory confirmed),2021,35-39,42
+Influenza (laboratory confirmed),2021,40-44,52
+Influenza (laboratory confirmed),2021,45-49,35
+Influenza (laboratory confirmed),2021,50-54,49
+Influenza (laboratory confirmed),2021,55-59,43
+Influenza (laboratory confirmed),2021,60-64,76
+Influenza (laboratory confirmed),2021,65-69,59
+Influenza (laboratory confirmed),2021,70-74,38
+Influenza (laboratory confirmed),2021,75-79,33
+Influenza (laboratory confirmed),2021,80-84,23
+Influenza (laboratory confirmed),2021,85+,28
+Influenza (laboratory confirmed),2022,00-04,29229
+Influenza (laboratory confirmed),2022,05-09,36465
+Influenza (laboratory confirmed),2022,10-14,24329
+Influenza (laboratory confirmed),2022,15-19,21474
+Influenza (laboratory confirmed),2022,20-24,15779
+Influenza (laboratory confirmed),2022,25-29,14081
+Influenza (laboratory confirmed),2022,30-34,15739
+Influenza (laboratory confirmed),2022,35-39,16600
+Influenza (laboratory confirmed),2022,40-44,12961
+Influenza (laboratory confirmed),2022,45-49,9244
+Influenza (laboratory confirmed),2022,50-54,7816
+Influenza (laboratory confirmed),2022,55-59,6576
+Influenza (laboratory confirmed),2022,60-64,6231
+Influenza (laboratory confirmed),2022,65-69,4591
+Influenza (laboratory confirmed),2022,70-74,3990
+Influenza (laboratory confirmed),2022,75-79,3161
+Influenza (laboratory confirmed),2022,80-84,2340
+Influenza (laboratory confirmed),2022,85+,2750
+Influenza (laboratory confirmed),2022,NA,12
+Influenza (laboratory confirmed),2023,00-04,34454
+Influenza (laboratory confirmed),2023,05-09,52077
+Influenza (laboratory confirmed),2023,10-14,33280
+Influenza (laboratory confirmed),2023,15-19,21323
+Influenza (laboratory confirmed),2023,20-24,12198
+Influenza (laboratory confirmed),2023,25-29,13268
+Influenza (laboratory confirmed),2023,30-34,17821
+Influenza (laboratory confirmed),2023,35-39,20428
+Influenza (laboratory confirmed),2023,40-44,18523
+Influenza (laboratory confirmed),2023,45-49,12828
+Influenza (laboratory confirmed),2023,50-54,10923
+Influenza (laboratory confirmed),2023,55-59,8630
+Influenza (laboratory confirmed),2023,60-64,7885
+Influenza (laboratory confirmed),2023,65-69,6773
+Influenza (laboratory confirmed),2023,70-74,5768
+Influenza (laboratory confirmed),2023,75-79,5045
+Influenza (laboratory confirmed),2023,80-84,3567
+Influenza (laboratory confirmed),2023,85+,4028
+Influenza (laboratory confirmed),2023,NA,43
+Influenza (laboratory confirmed),2024,00-04,48859
+Influenza (laboratory confirmed),2024,05-09,52501
+Influenza (laboratory confirmed),2024,10-14,33955
+Influenza (laboratory confirmed),2024,15-19,22734
+Influenza (laboratory confirmed),2024,20-24,17582
+Influenza (laboratory confirmed),2024,25-29,19717
+Influenza (laboratory confirmed),2024,30-34,21961
+Influenza (laboratory confirmed),2024,35-39,23908
+Influenza (laboratory confirmed),2024,40-44,21491
+Influenza (laboratory confirmed),2024,45-49,16568
+Influenza (laboratory confirmed),2024,50-54,15662
+Influenza (laboratory confirmed),2024,55-59,13593
+Influenza (laboratory confirmed),2024,60-64,13180
+Influenza (laboratory confirmed),2024,65-69,10700
+Influenza (laboratory confirmed),2024,70-74,9550
+Influenza (laboratory confirmed),2024,75-79,8608
+Influenza (laboratory confirmed),2024,80-84,6463
+Influenza (laboratory confirmed),2024,85+,7880
+Influenza (laboratory confirmed),2024,NA,10
+Influenza (laboratory confirmed),2025,00-04,112
+Influenza (laboratory confirmed),2025,05-09,83
+Influenza (laboratory confirmed),2025,10-14,56
+Influenza (laboratory confirmed),2025,15-19,42
+Influenza (laboratory confirmed),2025,20-24,38
+Influenza (laboratory confirmed),2025,25-29,37
+Influenza (laboratory confirmed),2025,30-34,63
+Influenza (laboratory confirmed),2025,35-39,59
+Influenza (laboratory confirmed),2025,40-44,64
+Influenza (laboratory confirmed),2025,45-49,63
+Influenza (laboratory confirmed),2025,50-54,77
+Influenza (laboratory confirmed),2025,55-59,61
+Influenza (laboratory confirmed),2025,60-64,61
+Influenza (laboratory confirmed),2025,65-69,47
+Influenza (laboratory confirmed),2025,70-74,41
+Influenza (laboratory confirmed),2025,75-79,56
+Influenza (laboratory confirmed),2025,80-84,38
+Influenza (laboratory confirmed),2025,85+,39
+Meningococcal disease (invasive),2009,00-04,87
+Meningococcal disease (invasive),2009,05-09,17
+Meningococcal disease (invasive),2009,10-14,15
+Meningococcal disease (invasive),2009,15-19,51
+Meningococcal disease (invasive),2009,20-24,20
+Meningococcal disease (invasive),2009,25-29,13
+Meningococcal disease (invasive),2009,30-34,9
+Meningococcal disease (invasive),2009,35-39,9
+Meningococcal disease (invasive),2009,40-44,8
+Meningococcal disease (invasive),2009,45-49,2
+Meningococcal disease (invasive),2009,50-54,9
+Meningococcal disease (invasive),2009,55-59,4
+Meningococcal disease (invasive),2009,60-64,3
+Meningococcal disease (invasive),2009,70-74,1
+Meningococcal disease (invasive),2009,75-79,3
+Meningococcal disease (invasive),2009,80-84,1
+Meningococcal disease (invasive),2009,85+,2
+Meningococcal disease (invasive),2010,00-04,83
+Meningococcal disease (invasive),2010,05-09,15
+Meningococcal disease (invasive),2010,10-14,12
+Meningococcal disease (invasive),2010,15-19,36
+Meningococcal disease (invasive),2010,20-24,17
+Meningococcal disease (invasive),2010,25-29,7
+Meningococcal disease (invasive),2010,30-34,4
+Meningococcal disease (invasive),2010,35-39,3
+Meningococcal disease (invasive),2010,40-44,7
+Meningococcal disease (invasive),2010,45-49,8
+Meningococcal disease (invasive),2010,50-54,5
+Meningococcal disease (invasive),2010,55-59,7
+Meningococcal disease (invasive),2010,60-64,7
+Meningococcal disease (invasive),2010,65-69,3
+Meningococcal disease (invasive),2010,70-74,4
+Meningococcal disease (invasive),2010,80-84,4
+Meningococcal disease (invasive),2010,85+,3
+Meningococcal disease (invasive),2011,00-04,70
+Meningococcal disease (invasive),2011,05-09,14
+Meningococcal disease (invasive),2011,10-14,11
+Meningococcal disease (invasive),2011,15-19,42
+Meningococcal disease (invasive),2011,20-24,26
+Meningococcal disease (invasive),2011,25-29,9
+Meningococcal disease (invasive),2011,30-34,4
+Meningococcal disease (invasive),2011,35-39,2
+Meningococcal disease (invasive),2011,40-44,5
+Meningococcal disease (invasive),2011,45-49,11
+Meningococcal disease (invasive),2011,50-54,11
+Meningococcal disease (invasive),2011,55-59,8
+Meningococcal disease (invasive),2011,60-64,4
+Meningococcal disease (invasive),2011,65-69,7
+Meningococcal disease (invasive),2011,70-74,9
+Meningococcal disease (invasive),2011,75-79,1
+Meningococcal disease (invasive),2011,80-84,4
+Meningococcal disease (invasive),2011,85+,1
+Meningococcal disease (invasive),2012,00-04,69
+Meningococcal disease (invasive),2012,05-09,12
+Meningococcal disease (invasive),2012,10-14,7
+Meningococcal disease (invasive),2012,15-19,32
+Meningococcal disease (invasive),2012,20-24,26
+Meningococcal disease (invasive),2012,25-29,13
+Meningococcal disease (invasive),2012,30-34,6
+Meningococcal disease (invasive),2012,35-39,5
+Meningococcal disease (invasive),2012,40-44,3
+Meningococcal disease (invasive),2012,45-49,14
+Meningococcal disease (invasive),2012,50-54,5
+Meningococcal disease (invasive),2012,55-59,5
+Meningococcal disease (invasive),2012,60-64,8
+Meningococcal disease (invasive),2012,65-69,4
+Meningococcal disease (invasive),2012,70-74,4
+Meningococcal disease (invasive),2012,75-79,1
+Meningococcal disease (invasive),2012,80-84,2
+Meningococcal disease (invasive),2012,85+,6
+Meningococcal disease (invasive),2013,00-04,45
+Meningococcal disease (invasive),2013,05-09,6
+Meningococcal disease (invasive),2013,10-14,8
+Meningococcal disease (invasive),2013,15-19,27
+Meningococcal disease (invasive),2013,20-24,13
+Meningococcal disease (invasive),2013,25-29,6
+Meningococcal disease (invasive),2013,30-34,4
+Meningococcal disease (invasive),2013,35-39,3
+Meningococcal disease (invasive),2013,40-44,1
+Meningococcal disease (invasive),2013,45-49,6
+Meningococcal disease (invasive),2013,50-54,4
+Meningococcal disease (invasive),2013,55-59,4
+Meningococcal disease (invasive),2013,60-64,6
+Meningococcal disease (invasive),2013,65-69,2
+Meningococcal disease (invasive),2013,70-74,2
+Meningococcal disease (invasive),2013,75-79,2
+Meningococcal disease (invasive),2013,85+,5
+Meningococcal disease (invasive),2014,00-04,50
+Meningococcal disease (invasive),2014,05-09,9
+Meningococcal disease (invasive),2014,10-14,5
+Meningococcal disease (invasive),2014,15-19,31
+Meningococcal disease (invasive),2014,20-24,22
+Meningococcal disease (invasive),2014,25-29,3
+Meningococcal disease (invasive),2014,30-34,4
+Meningococcal disease (invasive),2014,35-39,1
+Meningococcal disease (invasive),2014,40-44,6
+Meningococcal disease (invasive),2014,45-49,3
+Meningococcal disease (invasive),2014,50-54,3
+Meningococcal disease (invasive),2014,55-59,5
+Meningococcal disease (invasive),2014,60-64,4
+Meningococcal disease (invasive),2014,65-69,3
+Meningococcal disease (invasive),2014,70-74,4
+Meningococcal disease (invasive),2014,75-79,5
+Meningococcal disease (invasive),2014,80-84,2
+Meningococcal disease (invasive),2014,85+,5
+Meningococcal disease (invasive),2015,00-04,44
+Meningococcal disease (invasive),2015,05-09,5
+Meningococcal disease (invasive),2015,10-14,3
+Meningococcal disease (invasive),2015,15-19,37
+Meningococcal disease (invasive),2015,20-24,19
+Meningococcal disease (invasive),2015,25-29,4
+Meningococcal disease (invasive),2015,30-34,4
+Meningococcal disease (invasive),2015,35-39,4
+Meningococcal disease (invasive),2015,40-44,2
+Meningococcal disease (invasive),2015,45-49,6
+Meningococcal disease (invasive),2015,50-54,9
+Meningococcal disease (invasive),2015,55-59,4
+Meningococcal disease (invasive),2015,60-64,5
+Meningococcal disease (invasive),2015,65-69,8
+Meningococcal disease (invasive),2015,70-74,8
+Meningococcal disease (invasive),2015,75-79,6
+Meningococcal disease (invasive),2015,80-84,5
+Meningococcal disease (invasive),2015,85+,6
+Meningococcal disease (invasive),2016,00-04,53
+Meningococcal disease (invasive),2016,05-09,8
+Meningococcal disease (invasive),2016,10-14,1
+Meningococcal disease (invasive),2016,15-19,35
+Meningococcal disease (invasive),2016,20-24,30
+Meningococcal disease (invasive),2016,25-29,20
+Meningococcal disease (invasive),2016,30-34,6
+Meningococcal disease (invasive),2016,35-39,6
+Meningococcal disease (invasive),2016,40-44,4
+Meningococcal disease (invasive),2016,45-49,7
+Meningococcal disease (invasive),2016,50-54,10
+Meningococcal disease (invasive),2016,55-59,8
+Meningococcal disease (invasive),2016,60-64,12
+Meningococcal disease (invasive),2016,65-69,16
+Meningococcal disease (invasive),2016,70-74,14
+Meningococcal disease (invasive),2016,75-79,6
+Meningococcal disease (invasive),2016,80-84,6
+Meningococcal disease (invasive),2016,85+,8
+Meningococcal disease (invasive),2017,00-04,87
+Meningococcal disease (invasive),2017,05-09,19
+Meningococcal disease (invasive),2017,10-14,10
+Meningococcal disease (invasive),2017,15-19,41
+Meningococcal disease (invasive),2017,20-24,37
+Meningococcal disease (invasive),2017,25-29,21
+Meningococcal disease (invasive),2017,30-34,8
+Meningococcal disease (invasive),2017,35-39,10
+Meningococcal disease (invasive),2017,40-44,7
+Meningococcal disease (invasive),2017,45-49,10
+Meningococcal disease (invasive),2017,50-54,24
+Meningococcal disease (invasive),2017,55-59,17
+Meningococcal disease (invasive),2017,60-64,20
+Meningococcal disease (invasive),2017,65-69,11
+Meningococcal disease (invasive),2017,70-74,15
+Meningococcal disease (invasive),2017,75-79,18
+Meningococcal disease (invasive),2017,80-84,11
+Meningococcal disease (invasive),2017,85+,12
+Meningococcal disease (invasive),2018,00-04,73
+Meningococcal disease (invasive),2018,05-09,9
+Meningococcal disease (invasive),2018,10-14,3
+Meningococcal disease (invasive),2018,15-19,38
+Meningococcal disease (invasive),2018,20-24,20
+Meningococcal disease (invasive),2018,25-29,17
+Meningococcal disease (invasive),2018,30-34,12
+Meningococcal disease (invasive),2018,35-39,9
+Meningococcal disease (invasive),2018,40-44,5
+Meningococcal disease (invasive),2018,45-49,6
+Meningococcal disease (invasive),2018,50-54,13
+Meningococcal disease (invasive),2018,55-59,13
+Meningococcal disease (invasive),2018,60-64,18
+Meningococcal disease (invasive),2018,65-69,13
+Meningococcal disease (invasive),2018,70-74,8
+Meningococcal disease (invasive),2018,75-79,9
+Meningococcal disease (invasive),2018,80-84,7
+Meningococcal disease (invasive),2018,85+,6
+Meningococcal disease (invasive),2019,00-04,51
+Meningococcal disease (invasive),2019,05-09,6
+Meningococcal disease (invasive),2019,10-14,7
+Meningococcal disease (invasive),2019,15-19,26
+Meningococcal disease (invasive),2019,20-24,23
+Meningococcal disease (invasive),2019,25-29,10
+Meningococcal disease (invasive),2019,30-34,6
+Meningococcal disease (invasive),2019,35-39,4
+Meningococcal disease (invasive),2019,40-44,4
+Meningococcal disease (invasive),2019,45-49,3
+Meningococcal disease (invasive),2019,50-54,9
+Meningococcal disease (invasive),2019,55-59,8
+Meningococcal disease (invasive),2019,60-64,11
+Meningococcal disease (invasive),2019,65-69,8
+Meningococcal disease (invasive),2019,70-74,10
+Meningococcal disease (invasive),2019,75-79,6
+Meningococcal disease (invasive),2019,80-84,7
+Meningococcal disease (invasive),2019,85+,6
+Meningococcal disease (invasive),2020,00-04,27
+Meningococcal disease (invasive),2020,05-09,5
+Meningococcal disease (invasive),2020,10-14,3
+Meningococcal disease (invasive),2020,15-19,10
+Meningococcal disease (invasive),2020,20-24,9
+Meningococcal disease (invasive),2020,25-29,3
+Meningococcal disease (invasive),2020,30-34,2
+Meningococcal disease (invasive),2020,35-39,3
+Meningococcal disease (invasive),2020,40-44,2
+Meningococcal disease (invasive),2020,45-49,2
+Meningococcal disease (invasive),2020,50-54,4
+Meningococcal disease (invasive),2020,55-59,6
+Meningococcal disease (invasive),2020,65-69,3
+Meningococcal disease (invasive),2020,70-74,4
+Meningococcal disease (invasive),2020,75-79,3
+Meningococcal disease (invasive),2020,80-84,1
+Meningococcal disease (invasive),2020,85+,2
+Meningococcal disease (invasive),2021,00-04,16
+Meningococcal disease (invasive),2021,05-09,4
+Meningococcal disease (invasive),2021,10-14,4
+Meningococcal disease (invasive),2021,15-19,12
+Meningococcal disease (invasive),2021,20-24,7
+Meningococcal disease (invasive),2021,25-29,5
+Meningococcal disease (invasive),2021,30-34,1
+Meningococcal disease (invasive),2021,35-39,1
+Meningococcal disease (invasive),2021,40-44,4
+Meningococcal disease (invasive),2021,45-49,2
+Meningococcal disease (invasive),2021,50-54,4
+Meningococcal disease (invasive),2021,55-59,3
+Meningococcal disease (invasive),2021,60-64,1
+Meningococcal disease (invasive),2021,65-69,3
+Meningococcal disease (invasive),2021,70-74,1
+Meningococcal disease (invasive),2021,80-84,3
+Meningococcal disease (invasive),2021,85+,3
+Meningococcal disease (invasive),2022,00-04,26
+Meningococcal disease (invasive),2022,05-09,8
+Meningococcal disease (invasive),2022,10-14,9
+Meningococcal disease (invasive),2022,15-19,27
+Meningococcal disease (invasive),2022,20-24,14
+Meningococcal disease (invasive),2022,25-29,7
+Meningococcal disease (invasive),2022,30-34,1
+Meningococcal disease (invasive),2022,35-39,3
+Meningococcal disease (invasive),2022,40-44,5
+Meningococcal disease (invasive),2022,45-49,7
+Meningococcal disease (invasive),2022,50-54,2
+Meningococcal disease (invasive),2022,55-59,3
+Meningococcal disease (invasive),2022,60-64,3
+Meningococcal disease (invasive),2022,65-69,4
+Meningococcal disease (invasive),2022,70-74,1
+Meningococcal disease (invasive),2022,80-84,1
+Meningococcal disease (invasive),2022,85+,2
+Meningococcal disease (invasive),2023,00-04,29
+Meningococcal disease (invasive),2023,05-09,5
+Meningococcal disease (invasive),2023,10-14,8
+Meningococcal disease (invasive),2023,15-19,26
+Meningococcal disease (invasive),2023,20-24,11
+Meningococcal disease (invasive),2023,25-29,10
+Meningococcal disease (invasive),2023,30-34,4
+Meningococcal disease (invasive),2023,35-39,2
+Meningococcal disease (invasive),2023,40-44,3
+Meningococcal disease (invasive),2023,45-49,3
+Meningococcal disease (invasive),2023,50-54,8
+Meningococcal disease (invasive),2023,55-59,6
+Meningococcal disease (invasive),2023,60-64,5
+Meningococcal disease (invasive),2023,65-69,4
+Meningococcal disease (invasive),2023,70-74,7
+Meningococcal disease (invasive),2023,75-79,3
+Meningococcal disease (invasive),2023,80-84,2
+Meningococcal disease (invasive),2023,85+,5
+Meningococcal disease (invasive),2024,00-04,28
+Meningococcal disease (invasive),2024,05-09,7
+Meningococcal disease (invasive),2024,10-14,8
+Meningococcal disease (invasive),2024,15-19,24
+Meningococcal disease (invasive),2024,20-24,14
+Meningococcal disease (invasive),2024,25-29,7
+Meningococcal disease (invasive),2024,30-34,3
+Meningococcal disease (invasive),2024,35-39,5
+Meningococcal disease (invasive),2024,45-49,1
+Meningococcal disease (invasive),2024,50-54,6
+Meningococcal disease (invasive),2024,55-59,8
+Meningococcal disease (invasive),2024,60-64,9
+Meningococcal disease (invasive),2024,65-69,2
+Meningococcal disease (invasive),2024,70-74,3
+Meningococcal disease (invasive),2024,75-79,6
+Meningococcal disease (invasive),2024,80-84,2
+Meningococcal disease (invasive),2024,85+,3
+Pneumococcal disease (invasive),2009,02-04,83
+Pneumococcal disease (invasive),2009,05-09,45
+Pneumococcal disease (invasive),2009,10-14,67
+Pneumococcal disease (invasive),2009,15-19,39
+Pneumococcal disease (invasive),2009,20-24,34
+Pneumococcal disease (invasive),2009,25-29,44
+Pneumococcal disease (invasive),2009,30-34,64
+Pneumococcal disease (invasive),2009,35-39,91
+Pneumococcal disease (invasive),2009,40-44,84
+Pneumococcal disease (invasive),2009,45-49,78
+Pneumococcal disease (invasive),2009,50-54,101
+Pneumococcal disease (invasive),2009,55-59,94
+Pneumococcal disease (invasive),2009,60-64,107
+Pneumococcal disease (invasive),2009,65-69,102
+Pneumococcal disease (invasive),2009,70-74,82
+Pneumococcal disease (invasive),2009,75-79,73
+Pneumococcal disease (invasive),2009,80-84,95
+Pneumococcal disease (invasive),2009,85+,129
+Pneumococcal disease (invasive),2009,< 2 yo,112
+Pneumococcal disease (invasive),2010,02-04,92
+Pneumococcal disease (invasive),2010,05-09,66
+Pneumococcal disease (invasive),2010,10-14,50
+Pneumococcal disease (invasive),2010,15-19,27
+Pneumococcal disease (invasive),2010,20-24,35
+Pneumococcal disease (invasive),2010,25-29,38
+Pneumococcal disease (invasive),2010,30-34,57
+Pneumococcal disease (invasive),2010,35-39,85
+Pneumococcal disease (invasive),2010,40-44,89
+Pneumococcal disease (invasive),2010,45-49,82
+Pneumococcal disease (invasive),2010,50-54,92
+Pneumococcal disease (invasive),2010,55-59,120
+Pneumococcal disease (invasive),2010,60-64,132
+Pneumococcal disease (invasive),2010,65-69,105
+Pneumococcal disease (invasive),2010,70-74,85
+Pneumococcal disease (invasive),2010,75-79,77
+Pneumococcal disease (invasive),2010,80-84,87
+Pneumococcal disease (invasive),2010,85+,139
+Pneumococcal disease (invasive),2010,< 2 yo,157
+Pneumococcal disease (invasive),2011,02-04,94
+Pneumococcal disease (invasive),2011,05-09,80
+Pneumococcal disease (invasive),2011,10-14,99
+Pneumococcal disease (invasive),2011,15-19,63
+Pneumococcal disease (invasive),2011,20-24,44
+Pneumococcal disease (invasive),2011,25-29,57
+Pneumococcal disease (invasive),2011,30-34,76
+Pneumococcal disease (invasive),2011,35-39,88
+Pneumococcal disease (invasive),2011,40-44,97
+Pneumococcal disease (invasive),2011,45-49,97
+Pneumococcal disease (invasive),2011,50-54,92
+Pneumococcal disease (invasive),2011,55-59,107
+Pneumococcal disease (invasive),2011,60-64,161
+Pneumococcal disease (invasive),2011,65-69,132
+Pneumococcal disease (invasive),2011,70-74,99
+Pneumococcal disease (invasive),2011,75-79,86
+Pneumococcal disease (invasive),2011,80-84,92
+Pneumococcal disease (invasive),2011,85+,155
+Pneumococcal disease (invasive),2011,< 2 yo,138
+Pneumococcal disease (invasive),2012,02-04,76
+Pneumococcal disease (invasive),2012,05-09,46
+Pneumococcal disease (invasive),2012,10-14,67
+Pneumococcal disease (invasive),2012,15-19,52
+Pneumococcal disease (invasive),2012,20-24,39
+Pneumococcal disease (invasive),2012,25-29,59
+Pneumococcal disease (invasive),2012,30-34,87
+Pneumococcal disease (invasive),2012,35-39,112
+Pneumococcal disease (invasive),2012,40-44,104
+Pneumococcal disease (invasive),2012,45-49,92
+Pneumococcal disease (invasive),2012,50-54,117
+Pneumococcal disease (invasive),2012,55-59,109
+Pneumococcal disease (invasive),2012,60-64,136
+Pneumococcal disease (invasive),2012,65-69,132
+Pneumococcal disease (invasive),2012,70-74,104
+Pneumococcal disease (invasive),2012,75-79,111
+Pneumococcal disease (invasive),2012,80-84,106
+Pneumococcal disease (invasive),2012,85+,169
+Pneumococcal disease (invasive),2012,< 2 yo,78
+Pneumococcal disease (invasive),2013,02-04,68
+Pneumococcal disease (invasive),2013,05-09,58
+Pneumococcal disease (invasive),2013,10-14,52
+Pneumococcal disease (invasive),2013,15-19,29
+Pneumococcal disease (invasive),2013,20-24,23
+Pneumococcal disease (invasive),2013,25-29,29
+Pneumococcal disease (invasive),2013,30-34,57
+Pneumococcal disease (invasive),2013,35-39,80
+Pneumococcal disease (invasive),2013,40-44,95
+Pneumococcal disease (invasive),2013,45-49,101
+Pneumococcal disease (invasive),2013,50-54,89
+Pneumococcal disease (invasive),2013,55-59,99
+Pneumococcal disease (invasive),2013,60-64,126
+Pneumococcal disease (invasive),2013,65-69,124
+Pneumococcal disease (invasive),2013,70-74,102
+Pneumococcal disease (invasive),2013,75-79,82
+Pneumococcal disease (invasive),2013,80-84,101
+Pneumococcal disease (invasive),2013,85+,140
+Pneumococcal disease (invasive),2013,< 2 yo,83
+Pneumococcal disease (invasive),2014,02-04,81
+Pneumococcal disease (invasive),2014,05-09,56
+Pneumococcal disease (invasive),2014,10-14,30
+Pneumococcal disease (invasive),2014,15-19,27
+Pneumococcal disease (invasive),2014,20-24,28
+Pneumococcal disease (invasive),2014,25-29,35
+Pneumococcal disease (invasive),2014,30-34,47
+Pneumococcal disease (invasive),2014,35-39,72
+Pneumococcal disease (invasive),2014,40-44,89
+Pneumococcal disease (invasive),2014,45-49,94
+Pneumococcal disease (invasive),2014,50-54,106
+Pneumococcal disease (invasive),2014,55-59,123
+Pneumococcal disease (invasive),2014,60-64,129
+Pneumococcal disease (invasive),2014,65-69,134
+Pneumococcal disease (invasive),2014,70-74,88
+Pneumococcal disease (invasive),2014,75-79,89
+Pneumococcal disease (invasive),2014,80-84,72
+Pneumococcal disease (invasive),2014,85+,140
+Pneumococcal disease (invasive),2014,< 2 yo,108
+Pneumococcal disease (invasive),2015,02-04,91
+Pneumococcal disease (invasive),2015,05-09,50
+Pneumococcal disease (invasive),2015,10-14,17
+Pneumococcal disease (invasive),2015,15-19,21
+Pneumococcal disease (invasive),2015,20-24,22
+Pneumococcal disease (invasive),2015,25-29,25
+Pneumococcal disease (invasive),2015,30-34,44
+Pneumococcal disease (invasive),2015,35-39,61
+Pneumococcal disease (invasive),2015,40-44,81
+Pneumococcal disease (invasive),2015,45-49,75
+Pneumococcal disease (invasive),2015,50-54,109
+Pneumococcal disease (invasive),2015,55-59,119
+Pneumococcal disease (invasive),2015,60-64,121
+Pneumococcal disease (invasive),2015,65-69,124
+Pneumococcal disease (invasive),2015,70-74,102
+Pneumococcal disease (invasive),2015,75-79,110
+Pneumococcal disease (invasive),2015,80-84,84
+Pneumococcal disease (invasive),2015,85+,117
+Pneumococcal disease (invasive),2015,< 2 yo,104
+Pneumococcal disease (invasive),2016,02-04,114
+Pneumococcal disease (invasive),2016,05-09,47
+Pneumococcal disease (invasive),2016,10-14,28
+Pneumococcal disease (invasive),2016,15-19,22
+Pneumococcal disease (invasive),2016,20-24,21
+Pneumococcal disease (invasive),2016,25-29,32
+Pneumococcal disease (invasive),2016,30-34,53
+Pneumococcal disease (invasive),2016,35-39,58
+Pneumococcal disease (invasive),2016,40-44,76
+Pneumococcal disease (invasive),2016,45-49,78
+Pneumococcal disease (invasive),2016,50-54,98
+Pneumococcal disease (invasive),2016,55-59,131
+Pneumococcal disease (invasive),2016,60-64,158
+Pneumococcal disease (invasive),2016,65-69,137
+Pneumococcal disease (invasive),2016,70-74,130
+Pneumococcal disease (invasive),2016,75-79,94
+Pneumococcal disease (invasive),2016,80-84,76
+Pneumococcal disease (invasive),2016,85+,164
+Pneumococcal disease (invasive),2016,< 2 yo,118
+Pneumococcal disease (invasive),2017,02-04,130
+Pneumococcal disease (invasive),2017,05-09,60
+Pneumococcal disease (invasive),2017,10-14,25
+Pneumococcal disease (invasive),2017,15-19,22
+Pneumococcal disease (invasive),2017,20-24,24
+Pneumococcal disease (invasive),2017,25-29,43
+Pneumococcal disease (invasive),2017,30-34,63
+Pneumococcal disease (invasive),2017,35-39,82
+Pneumococcal disease (invasive),2017,40-44,74
+Pneumococcal disease (invasive),2017,45-49,104
+Pneumococcal disease (invasive),2017,50-54,130
+Pneumococcal disease (invasive),2017,55-59,115
+Pneumococcal disease (invasive),2017,60-64,204
+Pneumococcal disease (invasive),2017,65-69,175
+Pneumococcal disease (invasive),2017,70-74,145
+Pneumococcal disease (invasive),2017,75-79,142
+Pneumococcal disease (invasive),2017,80-84,129
+Pneumococcal disease (invasive),2017,85+,194
+Pneumococcal disease (invasive),2017,< 2 yo,164
+Pneumococcal disease (invasive),2018,02-04,118
+Pneumococcal disease (invasive),2018,05-09,63
+Pneumococcal disease (invasive),2018,10-14,19
+Pneumococcal disease (invasive),2018,15-19,22
+Pneumococcal disease (invasive),2018,20-24,37
+Pneumococcal disease (invasive),2018,25-29,40
+Pneumococcal disease (invasive),2018,30-34,64
+Pneumococcal disease (invasive),2018,35-39,85
+Pneumococcal disease (invasive),2018,40-44,73
+Pneumococcal disease (invasive),2018,45-49,86
+Pneumococcal disease (invasive),2018,50-54,116
+Pneumococcal disease (invasive),2018,55-59,149
+Pneumococcal disease (invasive),2018,60-64,169
+Pneumococcal disease (invasive),2018,65-69,174
+Pneumococcal disease (invasive),2018,70-74,147
+Pneumococcal disease (invasive),2018,75-79,135
+Pneumococcal disease (invasive),2018,80-84,119
+Pneumococcal disease (invasive),2018,85+,204
+Pneumococcal disease (invasive),2018,< 2 yo,181
+Pneumococcal disease (invasive),2019,02-04,158
+Pneumococcal disease (invasive),2019,05-09,84
+Pneumococcal disease (invasive),2019,10-14,29
+Pneumococcal disease (invasive),2019,15-19,30
+Pneumococcal disease (invasive),2019,20-24,29
+Pneumococcal disease (invasive),2019,25-29,37
+Pneumococcal disease (invasive),2019,30-34,64
+Pneumococcal disease (invasive),2019,35-39,72
+Pneumococcal disease (invasive),2019,40-44,94
+Pneumococcal disease (invasive),2019,45-49,103
+Pneumococcal disease (invasive),2019,50-54,114
+Pneumococcal disease (invasive),2019,55-59,166
+Pneumococcal disease (invasive),2019,60-64,193
+Pneumococcal disease (invasive),2019,65-69,166
+Pneumococcal disease (invasive),2019,70-74,132
+Pneumococcal disease (invasive),2019,75-79,142
+Pneumococcal disease (invasive),2019,80-84,122
+Pneumococcal disease (invasive),2019,85+,191
+Pneumococcal disease (invasive),2019,< 2 yo,155
+Pneumococcal disease (invasive),2020,02-04,68
+Pneumococcal disease (invasive),2020,05-09,31
+Pneumococcal disease (invasive),2020,10-14,15
+Pneumococcal disease (invasive),2020,15-19,15
+Pneumococcal disease (invasive),2020,20-24,14
+Pneumococcal disease (invasive),2020,25-29,35
+Pneumococcal disease (invasive),2020,30-34,47
+Pneumococcal disease (invasive),2020,35-39,42
+Pneumococcal disease (invasive),2020,40-44,56
+Pneumococcal disease (invasive),2020,45-49,72
+Pneumococcal disease (invasive),2020,50-54,65
+Pneumococcal disease (invasive),2020,55-59,79
+Pneumococcal disease (invasive),2020,60-64,80
+Pneumococcal disease (invasive),2020,65-69,101
+Pneumococcal disease (invasive),2020,70-74,66
+Pneumococcal disease (invasive),2020,75-79,56
+Pneumococcal disease (invasive),2020,80-84,60
+Pneumococcal disease (invasive),2020,85+,77
+Pneumococcal disease (invasive),2020,< 2 yo,107
+Pneumococcal disease (invasive),2020,Unknown,1
+Pneumococcal disease (invasive),2021,02-04,127
+Pneumococcal disease (invasive),2021,05-09,52
+Pneumococcal disease (invasive),2021,10-14,18
+Pneumococcal disease (invasive),2021,15-19,17
+Pneumococcal disease (invasive),2021,20-24,24
+Pneumococcal disease (invasive),2021,25-29,29
+Pneumococcal disease (invasive),2021,30-34,30
+Pneumococcal disease (invasive),2021,35-39,72
+Pneumococcal disease (invasive),2021,40-44,66
+Pneumococcal disease (invasive),2021,45-49,62
+Pneumococcal disease (invasive),2021,50-54,79
+Pneumococcal disease (invasive),2021,55-59,70
+Pneumococcal disease (invasive),2021,60-64,97
+Pneumococcal disease (invasive),2021,65-69,105
+Pneumococcal disease (invasive),2021,70-74,91
+Pneumococcal disease (invasive),2021,75-79,75
+Pneumococcal disease (invasive),2021,80-84,63
+Pneumococcal disease (invasive),2021,85+,94
+Pneumococcal disease (invasive),2021,< 2 yo,140
+Pneumococcal disease (invasive),2022,02-04,150
+Pneumococcal disease (invasive),2022,05-09,96
+Pneumococcal disease (invasive),2022,10-14,33
+Pneumococcal disease (invasive),2022,15-19,31
+Pneumococcal disease (invasive),2022,20-24,31
+Pneumococcal disease (invasive),2022,25-29,29
+Pneumococcal disease (invasive),2022,30-34,68
+Pneumococcal disease (invasive),2022,35-39,68
+Pneumococcal disease (invasive),2022,40-44,87
+Pneumococcal disease (invasive),2022,45-49,100
+Pneumococcal disease (invasive),2022,50-54,79
+Pneumococcal disease (invasive),2022,55-59,133
+Pneumococcal disease (invasive),2022,60-64,161
+Pneumococcal disease (invasive),2022,65-69,159
+Pneumococcal disease (invasive),2022,70-74,115
+Pneumococcal disease (invasive),2022,75-79,125
+Pneumococcal disease (invasive),2022,80-84,74
+Pneumococcal disease (invasive),2022,85+,119
+Pneumococcal disease (invasive),2022,< 2 yo,181
+Pneumococcal disease (invasive),2023,02-04,172
+Pneumococcal disease (invasive),2023,05-09,138
+Pneumococcal disease (invasive),2023,10-14,34
+Pneumococcal disease (invasive),2023,15-19,30
+Pneumococcal disease (invasive),2023,20-24,24
+Pneumococcal disease (invasive),2023,25-29,45
+Pneumococcal disease (invasive),2023,30-34,69
+Pneumococcal disease (invasive),2023,35-39,107
+Pneumococcal disease (invasive),2023,40-44,103
+Pneumococcal disease (invasive),2023,45-49,84
+Pneumococcal disease (invasive),2023,50-54,125
+Pneumococcal disease (invasive),2023,55-59,143
+Pneumococcal disease (invasive),2023,60-64,192
+Pneumococcal disease (invasive),2023,65-69,206
+Pneumococcal disease (invasive),2023,70-74,158
+Pneumococcal disease (invasive),2023,75-79,132
+Pneumococcal disease (invasive),2023,80-84,122
+Pneumococcal disease (invasive),2023,85+,158
+Pneumococcal disease (invasive),2023,< 2 yo,201
+Pneumococcal disease (invasive),2024,02-04,160
+Pneumococcal disease (invasive),2024,05-09,98
+Pneumococcal disease (invasive),2024,10-14,38
+Pneumococcal disease (invasive),2024,15-19,36
+Pneumococcal disease (invasive),2024,20-24,34
+Pneumococcal disease (invasive),2024,25-29,40
+Pneumococcal disease (invasive),2024,30-34,81
+Pneumococcal disease (invasive),2024,35-39,99
+Pneumococcal disease (invasive),2024,40-44,110
+Pneumococcal disease (invasive),2024,45-49,117
+Pneumococcal disease (invasive),2024,50-54,139
+Pneumococcal disease (invasive),2024,55-59,157
+Pneumococcal disease (invasive),2024,60-64,227
+Pneumococcal disease (invasive),2024,65-69,183
+Pneumococcal disease (invasive),2024,70-74,161
+Pneumococcal disease (invasive),2024,75-79,153
+Pneumococcal disease (invasive),2024,80-84,124
+Pneumococcal disease (invasive),2024,85+,178
+Pneumococcal disease (invasive),2024,< 2 yo,206
+Salmonellosis,2009,00-04,2576
+Salmonellosis,2009,05-09,628
+Salmonellosis,2009,10-14,397
+Salmonellosis,2009,15-19,489
+Salmonellosis,2009,20-24,692
+Salmonellosis,2009,25-29,644
+Salmonellosis,2009,30-34,471
+Salmonellosis,2009,35-39,390
+Salmonellosis,2009,40-44,356
+Salmonellosis,2009,45-49,392
+Salmonellosis,2009,50-54,382
+Salmonellosis,2009,55-59,351
+Salmonellosis,2009,60-64,323
+Salmonellosis,2009,65-69,261
+Salmonellosis,2009,70-74,229
+Salmonellosis,2009,75-79,163
+Salmonellosis,2009,80-84,150
+Salmonellosis,2009,85+,161
+Salmonellosis,2009,Unknown,4
+Salmonellosis,2010,00-04,3054
+Salmonellosis,2010,05-09,789
+Salmonellosis,2010,10-14,534
+Salmonellosis,2010,15-19,636
+Salmonellosis,2010,20-24,918
+Salmonellosis,2010,25-29,878
+Salmonellosis,2010,30-34,656
+Salmonellosis,2010,35-39,550
+Salmonellosis,2010,40-44,511
+Salmonellosis,2010,45-49,543
+Salmonellosis,2010,50-54,512
+Salmonellosis,2010,55-59,407
+Salmonellosis,2010,60-64,463
+Salmonellosis,2010,65-69,379
+Salmonellosis,2010,70-74,289
+Salmonellosis,2010,75-79,193
+Salmonellosis,2010,80-84,206
+Salmonellosis,2010,85+,210
+Salmonellosis,2010,Unknown,8
+Salmonellosis,2011,00-04,3071
+Salmonellosis,2011,05-09,914
+Salmonellosis,2011,10-14,557
+Salmonellosis,2011,15-19,663
+Salmonellosis,2011,20-24,920
+Salmonellosis,2011,25-29,922
+Salmonellosis,2011,30-34,671
+Salmonellosis,2011,35-39,542
+Salmonellosis,2011,40-44,531
+Salmonellosis,2011,45-49,521
+Salmonellosis,2011,50-54,494
+Salmonellosis,2011,55-59,442
+Salmonellosis,2011,60-64,459
+Salmonellosis,2011,65-69,374
+Salmonellosis,2011,70-74,299
+Salmonellosis,2011,75-79,235
+Salmonellosis,2011,80-84,222
+Salmonellosis,2011,85+,151
+Salmonellosis,2011,Unknown,2
+Salmonellosis,2012,00-04,2702
+Salmonellosis,2012,05-09,733
+Salmonellosis,2012,10-14,462
+Salmonellosis,2012,15-19,593
+Salmonellosis,2012,20-24,835
+Salmonellosis,2012,25-29,864
+Salmonellosis,2012,30-34,652
+Salmonellosis,2012,35-39,520
+Salmonellosis,2012,40-44,493
+Salmonellosis,2012,45-49,421
+Salmonellosis,2012,50-54,498
+Salmonellosis,2012,55-59,463
+Salmonellosis,2012,60-64,413
+Salmonellosis,2012,65-69,334
+Salmonellosis,2012,70-74,270
+Salmonellosis,2012,75-79,213
+Salmonellosis,2012,80-84,180
+Salmonellosis,2012,85+,145
+Salmonellosis,2012,Unknown,2
+Salmonellosis,2013,00-04,2927
+Salmonellosis,2013,05-09,838
+Salmonellosis,2013,10-14,554
+Salmonellosis,2013,15-19,644
+Salmonellosis,2013,20-24,941
+Salmonellosis,2013,25-29,895
+Salmonellosis,2013,30-34,768
+Salmonellosis,2013,35-39,562
+Salmonellosis,2013,40-44,604
+Salmonellosis,2013,45-49,549
+Salmonellosis,2013,50-54,595
+Salmonellosis,2013,55-59,489
+Salmonellosis,2013,60-64,442
+Salmonellosis,2013,65-69,463
+Salmonellosis,2013,70-74,379
+Salmonellosis,2013,75-79,252
+Salmonellosis,2013,80-84,212
+Salmonellosis,2013,85+,182
+Salmonellosis,2013,Unknown,3
+Salmonellosis,2014,00-04,3637
+Salmonellosis,2014,05-09,1115
+Salmonellosis,2014,10-14,662
+Salmonellosis,2014,15-19,817
+Salmonellosis,2014,20-24,1185
+Salmonellosis,2014,25-29,1279
+Salmonellosis,2014,30-34,1045
+Salmonellosis,2014,35-39,810
+Salmonellosis,2014,40-44,791
+Salmonellosis,2014,45-49,726
+Salmonellosis,2014,50-54,731
+Salmonellosis,2014,55-59,652
+Salmonellosis,2014,60-64,623
+Salmonellosis,2014,65-69,569
+Salmonellosis,2014,70-74,415
+Salmonellosis,2014,75-79,308
+Salmonellosis,2014,80-84,259
+Salmonellosis,2014,85+,266
+Salmonellosis,2014,Unknown,2
+Salmonellosis,2015,00-04,3737
+Salmonellosis,2015,05-09,1156
+Salmonellosis,2015,10-14,696
+Salmonellosis,2015,15-19,765
+Salmonellosis,2015,20-24,1192
+Salmonellosis,2015,25-29,1257
+Salmonellosis,2015,30-34,1106
+Salmonellosis,2015,35-39,865
+Salmonellosis,2015,40-44,845
+Salmonellosis,2015,45-49,793
+Salmonellosis,2015,50-54,737
+Salmonellosis,2015,55-59,717
+Salmonellosis,2015,60-64,658
+Salmonellosis,2015,65-69,622
+Salmonellosis,2015,70-74,470
+Salmonellosis,2015,75-79,364
+Salmonellosis,2015,80-84,263
+Salmonellosis,2015,85+,327
+Salmonellosis,2015,Unknown,4
+Salmonellosis,2016,00-04,4035
+Salmonellosis,2016,05-09,1235
+Salmonellosis,2016,10-14,728
+Salmonellosis,2016,15-19,740
+Salmonellosis,2016,20-24,1253
+Salmonellosis,2016,25-29,1267
+Salmonellosis,2016,30-34,1164
+Salmonellosis,2016,35-39,933
+Salmonellosis,2016,40-44,857
+Salmonellosis,2016,45-49,861
+Salmonellosis,2016,50-54,845
+Salmonellosis,2016,55-59,852
+Salmonellosis,2016,60-64,781
+Salmonellosis,2016,65-69,711
+Salmonellosis,2016,70-74,595
+Salmonellosis,2016,75-79,449
+Salmonellosis,2016,80-84,360
+Salmonellosis,2016,85+,377
+Salmonellosis,2016,Unknown,3
+Salmonellosis,2017,00-04,3701
+Salmonellosis,2017,05-09,1077
+Salmonellosis,2017,10-14,743
+Salmonellosis,2017,15-19,678
+Salmonellosis,2017,20-24,1038
+Salmonellosis,2017,25-29,1076
+Salmonellosis,2017,30-34,978
+Salmonellosis,2017,35-39,819
+Salmonellosis,2017,40-44,750
+Salmonellosis,2017,45-49,687
+Salmonellosis,2017,50-54,748
+Salmonellosis,2017,55-59,745
+Salmonellosis,2017,60-64,698
+Salmonellosis,2017,65-69,651
+Salmonellosis,2017,70-74,549
+Salmonellosis,2017,75-79,430
+Salmonellosis,2017,80-84,296
+Salmonellosis,2017,85+,308
+Salmonellosis,2017,Unknown,3
+Salmonellosis,2018,00-04,3391
+Salmonellosis,2018,05-09,889
+Salmonellosis,2018,10-14,549
+Salmonellosis,2018,15-19,577
+Salmonellosis,2018,20-24,861
+Salmonellosis,2018,25-29,913
+Salmonellosis,2018,30-34,846
+Salmonellosis,2018,35-39,685
+Salmonellosis,2018,40-44,657
+Salmonellosis,2018,45-49,638
+Salmonellosis,2018,50-54,675
+Salmonellosis,2018,55-59,640
+Salmonellosis,2018,60-64,622
+Salmonellosis,2018,65-69,580
+Salmonellosis,2018,70-74,505
+Salmonellosis,2018,75-79,358
+Salmonellosis,2018,80-84,271
+Salmonellosis,2018,85+,236
+Salmonellosis,2019,00-04,3415
+Salmonellosis,2019,05-09,963
+Salmonellosis,2019,10-14,560
+Salmonellosis,2019,15-19,584
+Salmonellosis,2019,20-24,967
+Salmonellosis,2019,25-29,1011
+Salmonellosis,2019,30-34,828
+Salmonellosis,2019,35-39,771
+Salmonellosis,2019,40-44,627
+Salmonellosis,2019,45-49,664
+Salmonellosis,2019,50-54,699
+Salmonellosis,2019,55-59,700
+Salmonellosis,2019,60-64,621
+Salmonellosis,2019,65-69,543
+Salmonellosis,2019,70-74,585
+Salmonellosis,2019,75-79,397
+Salmonellosis,2019,80-84,265
+Salmonellosis,2019,85+,249
+Salmonellosis,2020,00-04,2867
+Salmonellosis,2020,05-09,844
+Salmonellosis,2020,10-14,533
+Salmonellosis,2020,15-19,495
+Salmonellosis,2020,20-24,710
+Salmonellosis,2020,25-29,700
+Salmonellosis,2020,30-34,671
+Salmonellosis,2020,35-39,661
+Salmonellosis,2020,40-44,547
+Salmonellosis,2020,45-49,538
+Salmonellosis,2020,50-54,491
+Salmonellosis,2020,55-59,541
+Salmonellosis,2020,60-64,452
+Salmonellosis,2020,65-69,473
+Salmonellosis,2020,70-74,465
+Salmonellosis,2020,75-79,305
+Salmonellosis,2020,80-84,248
+Salmonellosis,2020,85+,245
+Salmonellosis,2020,Unknown,1
+Salmonellosis,2021,00-04,3070
+Salmonellosis,2021,05-09,856
+Salmonellosis,2021,10-14,484
+Salmonellosis,2021,15-19,464
+Salmonellosis,2021,20-24,534
+Salmonellosis,2021,25-29,520
+Salmonellosis,2021,30-34,452
+Salmonellosis,2021,35-39,499
+Salmonellosis,2021,40-44,439
+Salmonellosis,2021,45-49,441
+Salmonellosis,2021,50-54,482
+Salmonellosis,2021,55-59,428
+Salmonellosis,2021,60-64,436
+Salmonellosis,2021,65-69,423
+Salmonellosis,2021,70-74,422
+Salmonellosis,2021,75-79,334
+Salmonellosis,2021,80-84,244
+Salmonellosis,2021,85+,260
+Salmonellosis,2021,Unknown,1
+Salmonellosis,2022,00-04,2831
+Salmonellosis,2022,05-09,736
+Salmonellosis,2022,10-14,407
+Salmonellosis,2022,15-19,356
+Salmonellosis,2022,20-24,533
+Salmonellosis,2022,25-29,522
+Salmonellosis,2022,30-34,554
+Salmonellosis,2022,35-39,434
+Salmonellosis,2022,40-44,461
+Salmonellosis,2022,45-49,398
+Salmonellosis,2022,50-54,416
+Salmonellosis,2022,55-59,444
+Salmonellosis,2022,60-64,449
+Salmonellosis,2022,65-69,386
+Salmonellosis,2022,70-74,394
+Salmonellosis,2022,75-79,339
+Salmonellosis,2022,80-84,220
+Salmonellosis,2022,85+,243
+Salmonellosis,2022,Unknown,2
+Salmonellosis,2023,00-04,2809
+Salmonellosis,2023,05-09,727
+Salmonellosis,2023,10-14,444
+Salmonellosis,2023,15-19,429
+Salmonellosis,2023,20-24,694
+Salmonellosis,2023,25-29,664
+Salmonellosis,2023,30-34,620
+Salmonellosis,2023,35-39,522
+Salmonellosis,2023,40-44,513
+Salmonellosis,2023,45-49,434
+Salmonellosis,2023,50-54,553
+Salmonellosis,2023,55-59,489
+Salmonellosis,2023,60-64,516
+Salmonellosis,2023,65-69,488
+Salmonellosis,2023,70-74,459
+Salmonellosis,2023,75-79,345
+Salmonellosis,2023,80-84,261
+Salmonellosis,2023,85+,230
+Salmonellosis,2023,Unknown,1
+Salmonellosis,2024,00-04,3034
+Salmonellosis,2024,05-09,786
+Salmonellosis,2024,10-14,476
+Salmonellosis,2024,15-19,432
+Salmonellosis,2024,20-24,652
+Salmonellosis,2024,25-29,687
+Salmonellosis,2024,30-34,644
+Salmonellosis,2024,35-39,623
+Salmonellosis,2024,40-44,582
+Salmonellosis,2024,45-49,524
+Salmonellosis,2024,50-54,603
+Salmonellosis,2024,55-59,521
+Salmonellosis,2024,60-64,580
+Salmonellosis,2024,65-69,520
+Salmonellosis,2024,70-74,494
+Salmonellosis,2024,75-79,374
+Salmonellosis,2024,80-84,278
+Salmonellosis,2024,85+,231
+Salmonellosis,2025,00-04,25
+Salmonellosis,2025,05-09,3
+Salmonellosis,2025,10-14,3
+Salmonellosis,2025,15-19,6
+Salmonellosis,2025,20-24,3
+Salmonellosis,2025,25-29,4
+Salmonellosis,2025,30-34,5
+Salmonellosis,2025,35-39,3
+Salmonellosis,2025,40-44,3
+Salmonellosis,2025,45-49,1
+Salmonellosis,2025,50-54,3
+Salmonellosis,2025,55-59,2
+Salmonellosis,2025,60-64,7
+Salmonellosis,2025,65-69,3
+Salmonellosis,2025,70-74,2
+Salmonellosis,2025,80-84,1

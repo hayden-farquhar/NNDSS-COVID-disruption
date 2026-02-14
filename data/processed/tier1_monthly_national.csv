@@ -1,0 +1,613 @@
+disease,year,month,count
+Influenza (laboratory confirmed),2008,1,98
+Influenza (laboratory confirmed),2008,2,161
+Influenza (laboratory confirmed),2008,3,157
+Influenza (laboratory confirmed),2008,4,163
+Influenza (laboratory confirmed),2008,5,284
+Influenza (laboratory confirmed),2008,6,264
+Influenza (laboratory confirmed),2008,7,507
+Influenza (laboratory confirmed),2008,8,2659
+Influenza (laboratory confirmed),2008,9,3116
+Influenza (laboratory confirmed),2008,10,1241
+Influenza (laboratory confirmed),2008,11,330
+Influenza (laboratory confirmed),2008,12,172
+Influenza (laboratory confirmed),2009,1,203
+Influenza (laboratory confirmed),2009,2,123
+Influenza (laboratory confirmed),2009,3,145
+Influenza (laboratory confirmed),2009,4,171
+Influenza (laboratory confirmed),2009,5,2205
+Influenza (laboratory confirmed),2009,6,10386
+Influenza (laboratory confirmed),2009,7,32241
+Influenza (laboratory confirmed),2009,8,10804
+Influenza (laboratory confirmed),2009,9,1841
+Influenza (laboratory confirmed),2009,10,503
+Influenza (laboratory confirmed),2009,11,242
+Influenza (laboratory confirmed),2009,12,167
+Influenza (laboratory confirmed),2010,1,164
+Influenza (laboratory confirmed),2010,2,142
+Influenza (laboratory confirmed),2010,3,161
+Influenza (laboratory confirmed),2010,4,272
+Influenza (laboratory confirmed),2010,5,203
+Influenza (laboratory confirmed),2010,6,264
+Influenza (laboratory confirmed),2010,7,783
+Influenza (laboratory confirmed),2010,8,1990
+Influenza (laboratory confirmed),2010,9,4603
+Influenza (laboratory confirmed),2010,10,2971
+Influenza (laboratory confirmed),2010,11,868
+Influenza (laboratory confirmed),2010,12,1026
+Influenza (laboratory confirmed),2011,1,829
+Influenza (laboratory confirmed),2011,2,823
+Influenza (laboratory confirmed),2011,3,872
+Influenza (laboratory confirmed),2011,4,768
+Influenza (laboratory confirmed),2011,5,750
+Influenza (laboratory confirmed),2011,6,1995
+Influenza (laboratory confirmed),2011,7,6104
+Influenza (laboratory confirmed),2011,8,7060
+Influenza (laboratory confirmed),2011,9,5051
+Influenza (laboratory confirmed),2011,10,1666
+Influenza (laboratory confirmed),2011,11,743
+Influenza (laboratory confirmed),2011,12,554
+Influenza (laboratory confirmed),2012,1,292
+Influenza (laboratory confirmed),2012,2,301
+Influenza (laboratory confirmed),2012,3,676
+Influenza (laboratory confirmed),2012,4,516
+Influenza (laboratory confirmed),2012,5,827
+Influenza (laboratory confirmed),2012,6,5715
+Influenza (laboratory confirmed),2012,7,12452
+Influenza (laboratory confirmed),2012,8,15973
+Influenza (laboratory confirmed),2012,9,4643
+Influenza (laboratory confirmed),2012,10,1314
+Influenza (laboratory confirmed),2012,11,1187
+Influenza (laboratory confirmed),2012,12,612
+Influenza (laboratory confirmed),2013,1,646
+Influenza (laboratory confirmed),2013,2,685
+Influenza (laboratory confirmed),2013,3,1000
+Influenza (laboratory confirmed),2013,4,585
+Influenza (laboratory confirmed),2013,5,850
+Influenza (laboratory confirmed),2013,6,1026
+Influenza (laboratory confirmed),2013,7,2352
+Influenza (laboratory confirmed),2013,8,8071
+Influenza (laboratory confirmed),2013,9,6309
+Influenza (laboratory confirmed),2013,10,2834
+Influenza (laboratory confirmed),2013,11,2438
+Influenza (laboratory confirmed),2013,12,1400
+Influenza (laboratory confirmed),2014,1,1565
+Influenza (laboratory confirmed),2014,2,1151
+Influenza (laboratory confirmed),2014,3,1145
+Influenza (laboratory confirmed),2014,4,1013
+Influenza (laboratory confirmed),2014,5,1436
+Influenza (laboratory confirmed),2014,6,1926
+Influenza (laboratory confirmed),2014,7,7016
+Influenza (laboratory confirmed),2014,8,29102
+Influenza (laboratory confirmed),2014,9,16220
+Influenza (laboratory confirmed),2014,10,4802
+Influenza (laboratory confirmed),2014,11,1274
+Influenza (laboratory confirmed),2014,12,1014
+Influenza (laboratory confirmed),2015,1,1391
+Influenza (laboratory confirmed),2015,2,1333
+Influenza (laboratory confirmed),2015,3,1731
+Influenza (laboratory confirmed),2015,4,2068
+Influenza (laboratory confirmed),2015,5,2811
+Influenza (laboratory confirmed),2015,6,4296
+Influenza (laboratory confirmed),2015,7,14108
+Influenza (laboratory confirmed),2015,8,35923
+Influenza (laboratory confirmed),2015,9,28426
+Influenza (laboratory confirmed),2015,10,6634
+Influenza (laboratory confirmed),2015,11,1171
+Influenza (laboratory confirmed),2015,12,730
+Influenza (laboratory confirmed),2016,1,1235
+Influenza (laboratory confirmed),2016,2,1805
+Influenza (laboratory confirmed),2016,3,2434
+Influenza (laboratory confirmed),2016,4,2849
+Influenza (laboratory confirmed),2016,5,1882
+Influenza (laboratory confirmed),2016,6,2352
+Influenza (laboratory confirmed),2016,7,9180
+Influenza (laboratory confirmed),2016,8,24316
+Influenza (laboratory confirmed),2016,9,29863
+Influenza (laboratory confirmed),2016,10,7973
+Influenza (laboratory confirmed),2016,11,4033
+Influenza (laboratory confirmed),2016,12,3012
+Influenza (laboratory confirmed),2017,1,2438
+Influenza (laboratory confirmed),2017,2,2712
+Influenza (laboratory confirmed),2017,3,3208
+Influenza (laboratory confirmed),2017,4,1863
+Influenza (laboratory confirmed),2017,5,2714
+Influenza (laboratory confirmed),2017,6,8451
+Influenza (laboratory confirmed),2017,7,28008
+Influenza (laboratory confirmed),2017,8,86297
+Influenza (laboratory confirmed),2017,9,93622
+Influenza (laboratory confirmed),2017,10,15868
+Influenza (laboratory confirmed),2017,11,3634
+Influenza (laboratory confirmed),2017,12,2389
+Influenza (laboratory confirmed),2018,1,3223
+Influenza (laboratory confirmed),2018,2,3538
+Influenza (laboratory confirmed),2018,3,3698
+Influenza (laboratory confirmed),2018,4,1899
+Influenza (laboratory confirmed),2018,5,1529
+Influenza (laboratory confirmed),2018,6,2245
+Influenza (laboratory confirmed),2018,7,3478
+Influenza (laboratory confirmed),2018,8,8706
+Influenza (laboratory confirmed),2018,9,11079
+Influenza (laboratory confirmed),2018,10,6932
+Influenza (laboratory confirmed),2018,11,6375
+Influenza (laboratory confirmed),2018,12,5766
+Influenza (laboratory confirmed),2019,1,6034
+Influenza (laboratory confirmed),2019,2,6879
+Influenza (laboratory confirmed),2019,3,12213
+Influenza (laboratory confirmed),2019,4,16794
+Influenza (laboratory confirmed),2019,5,33177
+Influenza (laboratory confirmed),2019,6,55198
+Influenza (laboratory confirmed),2019,7,62918
+Influenza (laboratory confirmed),2019,8,69943
+Influenza (laboratory confirmed),2019,9,33028
+Influenza (laboratory confirmed),2019,10,8745
+Influenza (laboratory confirmed),2019,11,4625
+Influenza (laboratory confirmed),2019,12,3860
+Influenza (laboratory confirmed),2020,1,7505
+Influenza (laboratory confirmed),2020,2,7032
+Influenza (laboratory confirmed),2020,3,5972
+Influenza (laboratory confirmed),2020,4,327
+Influenza (laboratory confirmed),2020,5,297
+Influenza (laboratory confirmed),2020,6,193
+Influenza (laboratory confirmed),2020,7,231
+Influenza (laboratory confirmed),2020,8,115
+Influenza (laboratory confirmed),2020,9,61
+Influenza (laboratory confirmed),2020,10,41
+Influenza (laboratory confirmed),2020,11,53
+Influenza (laboratory confirmed),2020,12,54
+Influenza (laboratory confirmed),2021,1,66
+Influenza (laboratory confirmed),2021,2,46
+Influenza (laboratory confirmed),2021,3,50
+Influenza (laboratory confirmed),2021,4,72
+Influenza (laboratory confirmed),2021,5,67
+Influenza (laboratory confirmed),2021,6,59
+Influenza (laboratory confirmed),2021,7,72
+Influenza (laboratory confirmed),2021,8,43
+Influenza (laboratory confirmed),2021,9,63
+Influenza (laboratory confirmed),2021,10,55
+Influenza (laboratory confirmed),2021,11,62
+Influenza (laboratory confirmed),2021,12,105
+Influenza (laboratory confirmed),2022,1,39
+Influenza (laboratory confirmed),2022,2,33
+Influenza (laboratory confirmed),2022,3,324
+Influenza (laboratory confirmed),2022,4,5725
+Influenza (laboratory confirmed),2022,5,54194
+Influenza (laboratory confirmed),2022,6,111037
+Influenza (laboratory confirmed),2022,7,44665
+Influenza (laboratory confirmed),2022,8,6573
+Influenza (laboratory confirmed),2022,9,2710
+Influenza (laboratory confirmed),2022,10,1528
+Influenza (laboratory confirmed),2022,11,1892
+Influenza (laboratory confirmed),2022,12,4648
+Influenza (laboratory confirmed),2023,1,3653
+Influenza (laboratory confirmed),2023,2,4287
+Influenza (laboratory confirmed),2023,3,10725
+Influenza (laboratory confirmed),2023,4,13331
+Influenza (laboratory confirmed),2023,5,25052
+Influenza (laboratory confirmed),2023,6,77741
+Influenza (laboratory confirmed),2023,7,53171
+Influenza (laboratory confirmed),2023,8,32501
+Influenza (laboratory confirmed),2023,9,24938
+Influenza (laboratory confirmed),2023,10,12724
+Influenza (laboratory confirmed),2023,11,13099
+Influenza (laboratory confirmed),2023,12,17640
+Influenza (laboratory confirmed),2024,1,8614
+Influenza (laboratory confirmed),2024,2,7972
+Influenza (laboratory confirmed),2024,3,13784
+Influenza (laboratory confirmed),2024,4,12443
+Influenza (laboratory confirmed),2024,5,31202
+Influenza (laboratory confirmed),2024,6,71692
+Influenza (laboratory confirmed),2024,7,96875
+Influenza (laboratory confirmed),2024,8,83372
+Influenza (laboratory confirmed),2024,9,18889
+Influenza (laboratory confirmed),2024,10,6924
+Influenza (laboratory confirmed),2024,11,7118
+Influenza (laboratory confirmed),2024,12,6037
+Influenza (laboratory confirmed),2025,1,1037
+Influenza (laboratory confirmed),2025,2,0
+Influenza (laboratory confirmed),2025,3,0
+Influenza (laboratory confirmed),2025,4,0
+Influenza (laboratory confirmed),2025,5,0
+Influenza (laboratory confirmed),2025,6,0
+Influenza (laboratory confirmed),2025,7,0
+Influenza (laboratory confirmed),2025,8,0
+Influenza (laboratory confirmed),2025,9,0
+Influenza (laboratory confirmed),2025,10,0
+Influenza (laboratory confirmed),2025,11,0
+Influenza (laboratory confirmed),2025,12,0
+Meningococcal disease (invasive),2009,1,25
+Meningococcal disease (invasive),2009,2,7
+Meningococcal disease (invasive),2009,3,15
+Meningococcal disease (invasive),2009,4,18
+Meningococcal disease (invasive),2009,5,17
+Meningococcal disease (invasive),2009,6,24
+Meningococcal disease (invasive),2009,7,40
+Meningococcal disease (invasive),2009,8,28
+Meningococcal disease (invasive),2009,9,19
+Meningococcal disease (invasive),2009,10,27
+Meningococcal disease (invasive),2009,11,22
+Meningococcal disease (invasive),2009,12,12
+Meningococcal disease (invasive),2010,1,22
+Meningococcal disease (invasive),2010,2,7
+Meningococcal disease (invasive),2010,3,15
+Meningococcal disease (invasive),2010,4,13
+Meningococcal disease (invasive),2010,5,18
+Meningococcal disease (invasive),2010,6,25
+Meningococcal disease (invasive),2010,7,22
+Meningococcal disease (invasive),2010,8,26
+Meningococcal disease (invasive),2010,9,22
+Meningococcal disease (invasive),2010,10,26
+Meningococcal disease (invasive),2010,11,14
+Meningococcal disease (invasive),2010,12,15
+Meningococcal disease (invasive),2011,1,29
+Meningococcal disease (invasive),2011,2,13
+Meningococcal disease (invasive),2011,3,15
+Meningococcal disease (invasive),2011,4,16
+Meningococcal disease (invasive),2011,5,22
+Meningococcal disease (invasive),2011,6,18
+Meningococcal disease (invasive),2011,7,27
+Meningococcal disease (invasive),2011,8,24
+Meningococcal disease (invasive),2011,9,26
+Meningococcal disease (invasive),2011,10,18
+Meningococcal disease (invasive),2011,11,19
+Meningococcal disease (invasive),2011,12,12
+Meningococcal disease (invasive),2012,1,17
+Meningococcal disease (invasive),2012,2,5
+Meningococcal disease (invasive),2012,3,10
+Meningococcal disease (invasive),2012,4,21
+Meningococcal disease (invasive),2012,5,18
+Meningococcal disease (invasive),2012,6,27
+Meningococcal disease (invasive),2012,7,33
+Meningococcal disease (invasive),2012,8,27
+Meningococcal disease (invasive),2012,9,23
+Meningococcal disease (invasive),2012,10,17
+Meningococcal disease (invasive),2012,11,6
+Meningococcal disease (invasive),2012,12,18
+Meningococcal disease (invasive),2013,1,12
+Meningococcal disease (invasive),2013,2,9
+Meningococcal disease (invasive),2013,3,17
+Meningococcal disease (invasive),2013,4,9
+Meningococcal disease (invasive),2013,5,8
+Meningococcal disease (invasive),2013,6,9
+Meningococcal disease (invasive),2013,7,10
+Meningococcal disease (invasive),2013,8,23
+Meningococcal disease (invasive),2013,9,13
+Meningococcal disease (invasive),2013,10,13
+Meningococcal disease (invasive),2013,11,17
+Meningococcal disease (invasive),2013,12,4
+Meningococcal disease (invasive),2014,1,7
+Meningococcal disease (invasive),2014,2,9
+Meningococcal disease (invasive),2014,3,9
+Meningococcal disease (invasive),2014,4,14
+Meningococcal disease (invasive),2014,5,11
+Meningococcal disease (invasive),2014,6,15
+Meningococcal disease (invasive),2014,7,16
+Meningococcal disease (invasive),2014,8,13
+Meningococcal disease (invasive),2014,9,26
+Meningococcal disease (invasive),2014,10,16
+Meningococcal disease (invasive),2014,11,16
+Meningococcal disease (invasive),2014,12,13
+Meningococcal disease (invasive),2015,1,8
+Meningococcal disease (invasive),2015,2,6
+Meningococcal disease (invasive),2015,3,12
+Meningococcal disease (invasive),2015,4,15
+Meningococcal disease (invasive),2015,5,19
+Meningococcal disease (invasive),2015,6,13
+Meningococcal disease (invasive),2015,7,18
+Meningococcal disease (invasive),2015,8,28
+Meningococcal disease (invasive),2015,9,20
+Meningococcal disease (invasive),2015,10,21
+Meningococcal disease (invasive),2015,11,13
+Meningococcal disease (invasive),2015,12,6
+Meningococcal disease (invasive),2016,1,22
+Meningococcal disease (invasive),2016,2,9
+Meningococcal disease (invasive),2016,3,14
+Meningococcal disease (invasive),2016,4,14
+Meningococcal disease (invasive),2016,5,16
+Meningococcal disease (invasive),2016,6,16
+Meningococcal disease (invasive),2016,7,18
+Meningococcal disease (invasive),2016,8,34
+Meningococcal disease (invasive),2016,9,25
+Meningococcal disease (invasive),2016,10,37
+Meningococcal disease (invasive),2016,11,20
+Meningococcal disease (invasive),2016,12,25
+Meningococcal disease (invasive),2017,1,28
+Meningococcal disease (invasive),2017,2,21
+Meningococcal disease (invasive),2017,3,23
+Meningococcal disease (invasive),2017,4,22
+Meningococcal disease (invasive),2017,5,17
+Meningococcal disease (invasive),2017,6,26
+Meningococcal disease (invasive),2017,7,33
+Meningococcal disease (invasive),2017,8,40
+Meningococcal disease (invasive),2017,9,65
+Meningococcal disease (invasive),2017,10,52
+Meningococcal disease (invasive),2017,11,28
+Meningococcal disease (invasive),2017,12,23
+Meningococcal disease (invasive),2018,1,22
+Meningococcal disease (invasive),2018,2,12
+Meningococcal disease (invasive),2018,3,17
+Meningococcal disease (invasive),2018,4,17
+Meningococcal disease (invasive),2018,5,16
+Meningococcal disease (invasive),2018,6,23
+Meningococcal disease (invasive),2018,7,30
+Meningococcal disease (invasive),2018,8,33
+Meningococcal disease (invasive),2018,9,31
+Meningococcal disease (invasive),2018,10,25
+Meningococcal disease (invasive),2018,11,26
+Meningococcal disease (invasive),2018,12,27
+Meningococcal disease (invasive),2019,1,16
+Meningococcal disease (invasive),2019,2,9
+Meningococcal disease (invasive),2019,3,12
+Meningococcal disease (invasive),2019,4,11
+Meningococcal disease (invasive),2019,5,19
+Meningococcal disease (invasive),2019,6,22
+Meningococcal disease (invasive),2019,7,23
+Meningococcal disease (invasive),2019,8,30
+Meningococcal disease (invasive),2019,9,24
+Meningococcal disease (invasive),2019,10,15
+Meningococcal disease (invasive),2019,11,14
+Meningococcal disease (invasive),2019,12,10
+Meningococcal disease (invasive),2020,1,12
+Meningococcal disease (invasive),2020,2,13
+Meningococcal disease (invasive),2020,3,6
+Meningococcal disease (invasive),2020,4,7
+Meningococcal disease (invasive),2020,5,4
+Meningococcal disease (invasive),2020,6,7
+Meningococcal disease (invasive),2020,7,8
+Meningococcal disease (invasive),2020,8,7
+Meningococcal disease (invasive),2020,9,4
+Meningococcal disease (invasive),2020,10,10
+Meningococcal disease (invasive),2020,11,4
+Meningococcal disease (invasive),2020,12,7
+Meningococcal disease (invasive),2021,1,5
+Meningococcal disease (invasive),2021,2,4
+Meningococcal disease (invasive),2021,3,9
+Meningococcal disease (invasive),2021,4,8
+Meningococcal disease (invasive),2021,5,8
+Meningococcal disease (invasive),2021,6,8
+Meningococcal disease (invasive),2021,7,3
+Meningococcal disease (invasive),2021,8,7
+Meningococcal disease (invasive),2021,9,3
+Meningococcal disease (invasive),2021,10,4
+Meningococcal disease (invasive),2021,11,7
+Meningococcal disease (invasive),2021,12,8
+Meningococcal disease (invasive),2022,1,4
+Meningococcal disease (invasive),2022,2,8
+Meningococcal disease (invasive),2022,3,2
+Meningococcal disease (invasive),2022,4,6
+Meningococcal disease (invasive),2022,5,15
+Meningococcal disease (invasive),2022,6,9
+Meningococcal disease (invasive),2022,7,18
+Meningococcal disease (invasive),2022,8,9
+Meningococcal disease (invasive),2022,9,17
+Meningococcal disease (invasive),2022,10,5
+Meningococcal disease (invasive),2022,11,13
+Meningococcal disease (invasive),2022,12,17
+Meningococcal disease (invasive),2023,1,9
+Meningococcal disease (invasive),2023,2,6
+Meningococcal disease (invasive),2023,3,8
+Meningococcal disease (invasive),2023,4,9
+Meningococcal disease (invasive),2023,5,20
+Meningococcal disease (invasive),2023,6,15
+Meningococcal disease (invasive),2023,7,19
+Meningococcal disease (invasive),2023,8,10
+Meningococcal disease (invasive),2023,9,9
+Meningococcal disease (invasive),2023,10,10
+Meningococcal disease (invasive),2023,11,13
+Meningococcal disease (invasive),2023,12,13
+Meningococcal disease (invasive),2024,1,8
+Meningococcal disease (invasive),2024,2,3
+Meningococcal disease (invasive),2024,3,10
+Meningococcal disease (invasive),2024,4,11
+Meningococcal disease (invasive),2024,5,5
+Meningococcal disease (invasive),2024,6,15
+Meningococcal disease (invasive),2024,7,12
+Meningococcal disease (invasive),2024,8,22
+Meningococcal disease (invasive),2024,9,17
+Meningococcal disease (invasive),2024,10,9
+Meningococcal disease (invasive),2024,11,12
+Meningococcal disease (invasive),2024,12,12
+Salmonellosis,2009,1,1090
+Salmonellosis,2009,2,1126
+Salmonellosis,2009,3,952
+Salmonellosis,2009,4,805
+Salmonellosis,2009,5,855
+Salmonellosis,2009,6,521
+Salmonellosis,2009,7,506
+Salmonellosis,2009,8,404
+Salmonellosis,2009,9,525
+Salmonellosis,2009,10,711
+Salmonellosis,2009,11,756
+Salmonellosis,2009,12,808
+Salmonellosis,2010,1,1457
+Salmonellosis,2010,2,1251
+Salmonellosis,2010,3,1194
+Salmonellosis,2010,4,1258
+Salmonellosis,2010,5,895
+Salmonellosis,2010,6,720
+Salmonellosis,2010,7,823
+Salmonellosis,2010,8,612
+Salmonellosis,2010,9,571
+Salmonellosis,2010,10,894
+Salmonellosis,2010,11,809
+Salmonellosis,2010,12,1252
+Salmonellosis,2011,1,1486
+Salmonellosis,2011,2,1541
+Salmonellosis,2011,3,1362
+Salmonellosis,2011,4,1277
+Salmonellosis,2011,5,788
+Salmonellosis,2011,6,612
+Salmonellosis,2011,7,756
+Salmonellosis,2011,8,636
+Salmonellosis,2011,9,713
+Salmonellosis,2011,10,694
+Salmonellosis,2011,11,889
+Salmonellosis,2011,12,1236
+Salmonellosis,2012,1,1111
+Salmonellosis,2012,2,1205
+Salmonellosis,2012,3,1475
+Salmonellosis,2012,4,866
+Salmonellosis,2012,5,760
+Salmonellosis,2012,6,732
+Salmonellosis,2012,7,535
+Salmonellosis,2012,8,775
+Salmonellosis,2012,9,649
+Salmonellosis,2012,10,806
+Salmonellosis,2012,11,986
+Salmonellosis,2012,12,893
+Salmonellosis,2013,1,1233
+Salmonellosis,2013,2,1299
+Salmonellosis,2013,3,1520
+Salmonellosis,2013,4,1088
+Salmonellosis,2013,5,1092
+Salmonellosis,2013,6,682
+Salmonellosis,2013,7,687
+Salmonellosis,2013,8,797
+Salmonellosis,2013,9,676
+Salmonellosis,2013,10,920
+Salmonellosis,2013,11,1261
+Salmonellosis,2013,12,1044
+Salmonellosis,2014,1,1821
+Salmonellosis,2014,2,1751
+Salmonellosis,2014,3,1535
+Salmonellosis,2014,4,1484
+Salmonellosis,2014,5,1708
+Salmonellosis,2014,6,950
+Salmonellosis,2014,7,833
+Salmonellosis,2014,8,1014
+Salmonellosis,2014,9,820
+Salmonellosis,2014,10,1214
+Salmonellosis,2014,11,1270
+Salmonellosis,2014,12,1492
+Salmonellosis,2015,1,2511
+Salmonellosis,2015,2,1969
+Salmonellosis,2015,3,1850
+Salmonellosis,2015,4,1609
+Salmonellosis,2015,5,1506
+Salmonellosis,2015,6,911
+Salmonellosis,2015,7,1066
+Salmonellosis,2015,8,704
+Salmonellosis,2015,9,787
+Salmonellosis,2015,10,1273
+Salmonellosis,2015,11,1097
+Salmonellosis,2015,12,1291
+Salmonellosis,2016,1,2429
+Salmonellosis,2016,2,2152
+Salmonellosis,2016,3,1784
+Salmonellosis,2016,4,2068
+Salmonellosis,2016,5,1391
+Salmonellosis,2016,6,1092
+Salmonellosis,2016,7,1410
+Salmonellosis,2016,8,893
+Salmonellosis,2016,9,1016
+Salmonellosis,2016,10,943
+Salmonellosis,2016,11,1105
+Salmonellosis,2016,12,1763
+Salmonellosis,2017,1,1909
+Salmonellosis,2017,2,1788
+Salmonellosis,2017,3,2401
+Salmonellosis,2017,4,1426
+Salmonellosis,2017,5,1187
+Salmonellosis,2017,6,1112
+Salmonellosis,2017,7,832
+Salmonellosis,2017,8,781
+Salmonellosis,2017,9,890
+Salmonellosis,2017,10,1086
+Salmonellosis,2017,11,1106
+Salmonellosis,2017,12,1457
+Salmonellosis,2018,1,1460
+Salmonellosis,2018,2,1531
+Salmonellosis,2018,3,1777
+Salmonellosis,2018,4,1269
+Salmonellosis,2018,5,1098
+Salmonellosis,2018,6,1086
+Salmonellosis,2018,7,811
+Salmonellosis,2018,8,919
+Salmonellosis,2018,9,713
+Salmonellosis,2018,10,874
+Salmonellosis,2018,11,1245
+Salmonellosis,2018,12,1110
+Salmonellosis,2019,1,1399
+Salmonellosis,2019,2,1599
+Salmonellosis,2019,3,1738
+Salmonellosis,2019,4,1240
+Salmonellosis,2019,5,1347
+Salmonellosis,2019,6,789
+Salmonellosis,2019,7,799
+Salmonellosis,2019,8,938
+Salmonellosis,2019,9,832
+Salmonellosis,2019,10,1102
+Salmonellosis,2019,11,1455
+Salmonellosis,2019,12,1211
+Salmonellosis,2020,1,1982
+Salmonellosis,2020,2,2428
+Salmonellosis,2020,3,1221
+Salmonellosis,2020,4,752
+Salmonellosis,2020,5,980
+Salmonellosis,2020,6,648
+Salmonellosis,2020,7,571
+Salmonellosis,2020,8,428
+Salmonellosis,2020,9,498
+Salmonellosis,2020,10,713
+Salmonellosis,2020,11,649
+Salmonellosis,2020,12,917
+Salmonellosis,2021,1,1721
+Salmonellosis,2021,2,1111
+Salmonellosis,2021,3,1194
+Salmonellosis,2021,4,1162
+Salmonellosis,2021,5,708
+Salmonellosis,2021,6,558
+Salmonellosis,2021,7,577
+Salmonellosis,2021,8,394
+Salmonellosis,2021,9,477
+Salmonellosis,2021,10,844
+Salmonellosis,2021,11,1005
+Salmonellosis,2021,12,1038
+Salmonellosis,2022,1,924
+Salmonellosis,2022,2,1110
+Salmonellosis,2022,3,1175
+Salmonellosis,2022,4,1187
+Salmonellosis,2022,5,767
+Salmonellosis,2022,6,630
+Salmonellosis,2022,7,623
+Salmonellosis,2022,8,545
+Salmonellosis,2022,9,694
+Salmonellosis,2022,10,690
+Salmonellosis,2022,11,791
+Salmonellosis,2022,12,989
+Salmonellosis,2023,1,1154
+Salmonellosis,2023,2,1165
+Salmonellosis,2023,3,1343
+Salmonellosis,2023,4,925
+Salmonellosis,2023,5,797
+Salmonellosis,2023,6,804
+Salmonellosis,2023,7,730
+Salmonellosis,2023,8,649
+Salmonellosis,2023,9,858
+Salmonellosis,2023,10,814
+Salmonellosis,2023,11,843
+Salmonellosis,2023,12,1116
+Salmonellosis,2024,1,1162
+Salmonellosis,2024,2,1325
+Salmonellosis,2024,3,1638
+Salmonellosis,2024,4,1115
+Salmonellosis,2024,5,1106
+Salmonellosis,2024,6,757
+Salmonellosis,2024,7,697
+Salmonellosis,2024,8,761
+Salmonellosis,2024,9,679
+Salmonellosis,2024,10,784
+Salmonellosis,2024,11,1077
+Salmonellosis,2024,12,940
+Salmonellosis,2025,1,74
+Salmonellosis,2025,2,0
+Salmonellosis,2025,3,0
+Salmonellosis,2025,4,0
+Salmonellosis,2025,5,0
+Salmonellosis,2025,6,0
+Salmonellosis,2025,7,0
+Salmonellosis,2025,8,0
+Salmonellosis,2025,9,0
+Salmonellosis,2025,10,0
+Salmonellosis,2025,11,0
+Salmonellosis,2025,12,0
