@@ -258,7 +258,7 @@ p8b <- ggplot(group_means, aes(x = year, y = mean_oe, colour = group, fill = gro
   theme(legend.position = "bottom", panel.grid.minor = element_blank())
 
 fig8 <- p8a / p8b + plot_annotation(
-  title = "Figure 8. Difference-in-Differences: NPI-Sensitive vs Control Diseases",
+  title = "Difference-in-Differences: NPI-Sensitive vs Control Diseases",
   caption = paste0(
     "DiD coefficient (covid \u00d7 NPI-sensitive): ",
     round(did_coef$estimate, 3), " (p = ",
@@ -463,7 +463,7 @@ p9b <- ggplot(comp_data, aes(x = cluster_label, y = n, fill = transmission_mode)
 
 fig9 <- p9a / p9b + plot_layout(heights = c(2, 1)) +
   plot_annotation(
-    title = paste0("Figure 9. Trajectory Clustering (k=", optimal_k,
+    title = paste0("Trajectory Clustering (k=", optimal_k,
                    ", avg silhouette=", round(final_pam$silinfo$avg.width, 2), ")"),
     theme = theme(plot.title = element_text(face = "bold", size = 13))
   )

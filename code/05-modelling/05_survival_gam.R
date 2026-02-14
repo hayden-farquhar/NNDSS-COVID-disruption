@@ -213,7 +213,7 @@ p10b <- ggsurvplot(
 # Combine using arrange_ggsurvplots
 fig10_list <- list(p10a, p10b)
 fig10 <- arrange_ggsurvplots(fig10_list, ncol = 2, nrow = 1,
-                              title = "Figure 10. Time-to-Recovery Survival Analysis")
+                              title = "Time-to-Recovery Survival Analysis")
 
 ggsave(file.path(figdir, "fig10_km_survival.png"), fig10,
        width = 14, height = 7, dpi = 300, bg = "white")
@@ -393,7 +393,7 @@ fig11 <- wrap_plots(plot_list_11, ncol = 1, guides = "collect") &
   theme(legend.position = "bottom")
 
 fig11 <- fig11 + plot_annotation(
-  title = "Figure 11. GAM vs ITS Recovery Curves",
+  title = "GAM vs ITS Recovery Curves",
   caption = paste0("Green: GAM smooth (captures non-linear recovery). ",
                    "Blue: ITS piecewise linear. Red dashed: ITS counterfactual."),
   theme = theme(
@@ -526,7 +526,7 @@ fig12 <- ggplot(plot_boot, aes(x = net_point, y = disease_short, colour = sig_gr
   ) +
   scale_x_continuous(labels = scales::comma) +
   labs(
-    title = "Figure 12. Cumulative Net Immunity Debt with 95% Bootstrap CIs",
+    title = "Cumulative Net Immunity Debt with 95% Bootstrap CIs",
     subtitle = paste0("Positive = more excess cases than deficit (immunity debt). ",
                       "n = ", nrow(plot_boot), " diseases, ", B, " bootstrap iterations."),
     x = "Net cases (cumulative excess \u2212 cumulative deficit, 2020\u20132025)",

@@ -349,7 +349,7 @@ fig6 <- wrap_plots(plot_list, ncol = 1, guides = "collect") &
   theme(legend.position = "bottom")
 
 fig6 <- fig6 + plot_annotation(
-  title   = "Figure 6. Interrupted Time Series Analysis of Monthly Notifications",
+  title   = "Interrupted Time Series Analysis of Monthly Notifications",
   caption = "Red shading: COVID-acute period (Mar 2020 \u2013 Dec 2022). Blue shading: Post-COVID (Jan 2023+).\nDotted lines mark intervention points. Counterfactual shows expected trajectory without COVID.",
   theme   = theme(
     plot.title   = element_text(face = "bold", size = 13),

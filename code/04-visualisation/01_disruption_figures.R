@@ -440,7 +440,7 @@ fig_supp <- ggplot(annual_ts, aes(x = year, y = rate_per_100k)) +
   labs(
     x = "Year",
     y = "Rate per 100,000",
-    title = "Annual Notification Rates for 44 Notifiable Diseases, 2015\u20132025",
+    title = "Annual Notification Rates for 44 Notifiable Diseases, 2015\u20132025\n(3 diseases with ultra-low counts excluded)",
     subtitle = "Dashed line = baseline mean; Shading = 95% prediction interval; Red line = COVID onset"
   ) +
   theme_minimal(base_size = 8) +

@@ -372,7 +372,7 @@ fig7 <- ggplot(state_merged, aes(x = mean_stringency, y = median_covid_oe)) +
                           "\np = ", round(spearman_test$p.value, 3)),
            hjust = 1, vjust = 1, size = 4, fontface = "italic") +
   labs(
-    title    = "Figure 7. State-Level Stringency and Disease Disruption",
+    title    = "State-Level Stringency and Disease Disruption",
     subtitle = "Mean Oxford Stringency Index (Mar 2020 \u2013 Dec 2021) vs Median O/E Ratio",
     x        = "Mean Stringency Index",
     y        = "Median COVID-period O/E Ratio",
